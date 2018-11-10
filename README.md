@@ -31,20 +31,20 @@ A collection of Image Colorization with User Interaction papers and demos.
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
 | Sketch | [TextureGAN: Controlling Deep Image Synthesis with Texture Patches](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_TextureGAN_Controlling_Deep_CVPR_2018_paper.pdf) | CVPR 2018 |  |
-| Natural Gray-Scale | [Deep Exemplar-based Colorization](https://arxiv.org/pdf/1807.06587.pdf) | SIGGRAPH 2018 | [code](https://github.com/msracver/Deep-Exemplar-based-Colorization) |
-| Manga | [Comicolorization: Semi-Automatic Manga Colorization](https://arxiv.org/pdf/1706.06759.pdf) (also palette based) | SIGGRAPH Asia 2017 | [code](https://github.com/DwangoMediaVillage/Comicolorization) |
+| Natural Gray-Scale | [Deep Exemplar-based Colorization](https://arxiv.org/pdf/1807.06587.pdf) | SIGGRAPH 2018 | [msracver/Deep-Exemplar-based-Colorization](https://github.com/msracver/Deep-Exemplar-based-Colorization) |
+| Manga | [Comicolorization: Semi-Automatic Manga Colorization](https://arxiv.org/pdf/1706.06759.pdf) (also palette based) | SIGGRAPH Asia 2017 | [DwangoMediaVillage/Comicolorization](https://github.com/DwangoMediaVillage/Comicolorization) |
 
 ## Based on color palette
 
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
-| Manga | [Comicolorization: Semi-Automatic Manga Colorization](https://arxiv.org/pdf/1706.06759.pdf) (also reference based) | SIGGRAPH Asia 2017 | [code](https://github.com/DwangoMediaVillage/Comicolorization) |
-| Natural Gray-Scale | [Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation](https://arxiv.org/pdf/1804.04128.pdf) (alse text based) | ECCV 2018 |  |
+| Manga | [Comicolorization: Semi-Automatic Manga Colorization](https://arxiv.org/pdf/1706.06759.pdf) (also reference based) | SIGGRAPH Asia 2017 | [DwangoMediaVillage/Comicolorization](https://github.com/DwangoMediaVillage/Comicolorization) |
+| Natural Gray-Scale | [Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation](https://arxiv.org/pdf/1804.04128.pdf) (also text based) | ECCV 2018 | [awesome-davian/Text2Colors](https://github.com/awesome-davian/Text2Colors/) |
 
 ## Based on language or text
 
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
-| Natural Gray-Scale | [Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation](https://arxiv.org/pdf/1804.04128.pdf) (alse palette based) | ECCV 2018 | [code](https://github.com/awesome-davian/Text2Colors/) |
-| Natural Gray-Scale / Sketch | [Language-Based Image Editing with Recurrent Attentive Models](https://arxiv.org/pdf/1711.06288.pdf) | CVPR 2018 | [code](https://github.com/Jianbo-Lab/LBIE) |
+| Natural Gray-Scale | [Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation](https://arxiv.org/pdf/1804.04128.pdf) (also palette based) | ECCV 2018 | [awesome-davian/Text2Colors](https://github.com/awesome-davian/Text2Colors/) |
+| Natural Gray-Scale / Sketch | [Language-Based Image Editing with Recurrent Attentive Models](https://arxiv.org/pdf/1711.06288.pdf) | CVPR 2018 | [Jianbo-Lab/LBIE](https://github.com/Jianbo-Lab/LBIE) |
 | Scene Sketch | [LUCSS: Language-based User-customized Colorization of Scene Sketches](https://arxiv.org/pdf/1808.10544.pdf) | arxiv |  |
