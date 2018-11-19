@@ -20,9 +20,10 @@ A collection of Image Colorization with User Interaction papers and demos.
 | Natural Gray-Scale | [Real-Time User-Guided Image Colorization with Learned Deep Priors](https://arxiv.org/abs/1705.02999) | SIGGRAPH 2017 | https://richzhang.github.io/ideepcolor/ |
 | Sketch | [Scribbler: Controlling Deep Image Synthesis with Sketch and Color](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sangkloy_Scribbler_Controlling_Deep_CVPR_2017_paper.pdf) | CVPR 2017 |  |
 | Line art | [User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks](https://arxiv.org/pdf/1808.03240.pdf) | ACM MM 2018 | [orashi/AlacGAN](https://github.com/orashi/AlacGAN) |
+| Line art | [Two-stage Sketch Colorization](https://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.html) | SIGGRAPH Asia 2018 | [Style2paints V3](https://github.com/lllyasviel/style2paints#style2paints-v3) |
 | Line art / Sketch | [Outline Colorization through Tandem Adversarial Networks](https://arxiv.org/abs/1704.08834) | Online Demo | [deepcolor](http://color.kvfrans.com/) |
 | Line art | Paints Chainer | Online Demo | [PaintsChainer](https://github.com/pfnet/PaintsChainer) |
-| Line art | style2paints | Online Demo | [style2paints](https://github.com/lllyasviel/style2paints) |
+| Line art | Style2paints | Online Demo | [Style2paints V4](https://github.com/lllyasviel/style2paints) |
 | Manga | MangaCraft | Online Demo | [MangaCraft](https://github.com/lllyasviel/MangaCraft) |
 
 
