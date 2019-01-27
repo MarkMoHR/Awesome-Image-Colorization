@@ -1,5 +1,5 @@
-# Image-Colorization-Papers
-A collection of Image Colorization with User Interaction papers and demos.
+# Awesome-Image-Colorization
+A collection of User Guided Image Colorization (*i.e.* with User Interaction) papers and demos.
 
 **All kinds of interactions**
 
@@ -48,4 +48,4 @@ A collection of Image Colorization with User Interaction papers and demos.
 | --- | --- | --- |--- |
 | Natural Gray-Scale | [Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation](https://arxiv.org/pdf/1804.04128.pdf) (also palette based) | ECCV 2018 | [awesome-davian/Text2Colors](https://github.com/awesome-davian/Text2Colors/) |
 | Natural Gray-Scale / Sketch | [Language-Based Image Editing with Recurrent Attentive Models](https://arxiv.org/pdf/1711.06288.pdf) | CVPR 2018 | [Jianbo-Lab/LBIE](https://github.com/Jianbo-Lab/LBIE) |
-| Scene Sketch | [LUCSS: Language-based User-customized Colorization of Scene Sketches](https://arxiv.org/pdf/1808.10544.pdf) | arxiv |  |
+| Scene Sketch | [LUCSS: Language-based User-customized Colorization of Scene Sketches](https://arxiv.org/pdf/1808.10544.pdf) | arxiv | [SketchyScene/LUCSS](https://github.com/SketchyScene/LUCSS) |
