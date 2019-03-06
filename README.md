@@ -1,6 +1,8 @@
 # Awesome-Image-Colorization
 A collection of User Guided Image Colorization (*i.e.* with User Interaction) papers and demos.
 
+![examples](https://github.com/MarkMoHR/Awesome-Image-Colorization/blob/master/examples.png)
+
 **All kinds of interactions**
 
 - [Based on color strokes](#based-on-color-strokes)
