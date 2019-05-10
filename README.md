@@ -90,7 +90,7 @@ A collection of **Deep Learning** based Image Colorization papers and demos, inc
 
 | Paper | Source | Code/Project Link  |
 | --- | --- |--- |
-| [Fully Automatic Video Colorization with Self Regularization and Diversity]() | CVPR 2019 |  |
+| [Fully Automatic Video Colorization with Self Regularization and Diversity](https://cqf.io/papers/Fully_Automatic_Video_Colorization_CVPR2019.pdf) | CVPR 2019 |  |
 
 
 ### 3.2 Based on reference
