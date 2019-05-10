@@ -1,5 +1,5 @@
 # Awesome-Image-Colorization
-A collection of **Deep Learning** based Image Colorization papers and demos, including Automatic and User Guided (*i.e.* with User Interaction) colorization.
+A collection of **Deep Learning** based Image Colorization papers and demos, including Automatic and User Guided (*i.e.* with User Interaction) colorization, as well as video colorization.
 
 > Feel free to create a PR or an issue.
 
@@ -7,17 +7,20 @@ A collection of **Deep Learning** based Image Colorization papers and demos, inc
 
 **Outline**
 
-- [Automatic Colorization](#automatic-colorization)
-- [User Guided Colorization](#user-guided-colorization)
-  - [Based on color strokes](#based-on-color-strokes)
-  - [Based on reference color image](#based-on-reference-color-image)
-  - [Based on color palette](#based-on-color-palette)
-  - [Based on language(text)](#based-on-language-or-text)
+- [Automatic Image Colorization](#1-automatic-image-colorization)
+- [User Guided Image Colorization](#2-user-guided-image-colorization)
+  - [Based on color strokes](#21-based-on-color-strokes)
+  - [Based on reference color image](#22-based-on-reference-color-image)
+  - [Based on color palette](#23-based-on-color-palette)
+  - [Based on language(text)](#24-based-on-language-or-text)
+- [Video Colorization](#3-video-colorization)
+  - [Automatically](#31-automatically)
+  - [Based on reference](#32-based-on-reference)
 
 
 ---
 
-## Automatic Colorization
+## 1. Automatic Image Colorization
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
@@ -32,9 +35,9 @@ A collection of **Deep Learning** based Image Colorization papers and demos, inc
 | [Pixelated Semantic Colorization](https://arxiv.org/abs/1901.10889) | 1901.10889 |  |
 
 
-## User Guided Colorization
+## 2. User Guided Image Colorization
 
-### Based on color strokes
+### 2.1 Based on color strokes
 
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
@@ -51,7 +54,7 @@ A collection of **Deep Learning** based Image Colorization papers and demos, inc
 | Manga | MangaCraft | Online Demo | [[Demo]](https://github.com/lllyasviel/MangaCraft) |
 
 
-### Based on reference color image
+### 2.2 Based on reference color image
 
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
@@ -62,7 +65,7 @@ A collection of **Deep Learning** based Image Colorization papers and demos, inc
 | Natural Gray-Scale | [A Superpixel-based Variational Model for Image Colorization](https://ieeexplore.ieee.org/abstract/document/8676327) | TVCG 2019 |  |
 | Natural Gray-Scale | [Automatic Example-based Image Colourisation using Location-Aware Cross-Scale Matching](https://ieeexplore.ieee.org/abstract/document/8699109) | TIP 2019 |  |
 
-### Based on color palette
+### 2.3 Based on color palette
 
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
@@ -72,10 +75,26 @@ A collection of **Deep Learning** based Image Colorization papers and demos, inc
 | Natural Gray-Scale | [Example-Based Colourization Via Dense Encoding Pyramids](http://www.shengfenghe.com/uploads/1/5/1/3/15132160/cgf_13659_rev_ev.pdf) (also reference based) | Pacific Graphics 2018 | [[code]](https://github.com/chufengxiao/Example-based-Colorization-via-Dense-Encoding-pyramids) |
 | Natural Gray-Scale | [Interactive Deep Colorization Using Simultaneous Global and Local Inputs](https://ieeexplore.ieee.org/abstract/document/8683686) (also strokes based) | ICASSP 2019 |  |
 
-### Based on language or text
+### 2.4 Based on language or text
 
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
 | Natural Gray-Scale / Sketch | [Language-Based Image Editing with Recurrent Attentive Models](https://arxiv.org/pdf/1711.06288.pdf) | CVPR 2018 | [[code]](https://github.com/Jianbo-Lab/LBIE) |
 | Natural Gray-Scale | [Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation](https://arxiv.org/pdf/1804.04128.pdf) (also palette based) | ECCV 2018 | [[code]](https://github.com/awesome-davian/Text2Colors/) |
 | Scene Sketch | [LUCSS: Language-based User-customized Colorization of Scene Sketches](https://arxiv.org/pdf/1808.10544.pdf) | 1808.10544 | [[code]](https://github.com/SketchyScene/LUCSS) |
+
+
+## 3. Video Colorization
+
+### 3.1 Automatically
+
+| Paper | Source | Code/Project Link  |
+| --- | --- |--- |
+| [Fully Automatic Video Colorization with Self Regularization and Diversity]() | CVPR 2019 |  |
+
+
+### 3.2 Based on reference
+
+| Paper | Source | Code/Project Link  |
+| --- | --- |--- |
+| [Deep Exemplar-based Video Colorization]() | CVPR 2019 |  |
