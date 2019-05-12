@@ -90,11 +90,13 @@ A collection of **Deep Learning** based Image Colorization papers and demos, inc
 
 | Paper | Source | Code/Project Link  |
 | --- | --- |--- |
-| [Fully Automatic Video Colorization with Self Regularization and Diversity](https://cqf.io/papers/Fully_Automatic_Video_Colorization_CVPR2019.pdf) | CVPR 2019 |  |
+| [Fully Automatic Video Colorization with Self-Regularization and Diversity](https://cqf.io/papers/Fully_Automatic_Video_Colorization_CVPR2019.pdf) | CVPR 2019 |  |
 
 
 ### 3.2 Based on reference
 
 | Paper | Source | Code/Project Link  |
 | --- | --- |--- |
+| [Switchable Temporal Propagation Network](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sifei_Liu_Switchable_Temporal_Propagation_ECCV_2018_paper.pdf) | ECCV 2018 |  |
+| [Tracking Emerges by Colorizing Videos](http://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Vondrick_Self-supervised_Tracking_by_ECCV_2018_paper.pdf) | ECCV 2018 | [[code]](https://github.com/wbaek/tracking_via_colorization) |
 | [Deep Exemplar-based Video Colorization]() | CVPR 2019 |  |
