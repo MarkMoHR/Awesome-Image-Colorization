@@ -1,4 +1,8 @@
 # Awesome-Image-Colorization
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+
 A collection of **Deep Learning** based Image Colorization papers and demos, including Automatic and User Guided (*i.e.* with User Interaction) colorization, as well as video colorization.
 
 > Feel free to create a PR or an issue.
