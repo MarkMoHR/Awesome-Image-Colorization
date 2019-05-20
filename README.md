@@ -53,7 +53,8 @@ A collection of **Deep Learning** based Image Colorization papers and demos, inc
 | Line art | [User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks](https://arxiv.org/pdf/1808.03240.pdf) | ACM MM 2018 | [[code]](https://github.com/orashi/AlacGAN) |
 | Line art | Style2paints V3 : [Two-stage Sketch Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.pdf) | SIGGRAPH Asia 2018 | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.html) [[Code]](https://github.com/lllyasviel/style2paints#style2paints-v3) [[Demo]](http://s2p.moe/) <br/><br/> [[PyTorch Reimplementation]](https://github.com/Pengxiao-Wang/Style2Paints_V3) |
 | Natural Gray-Scale | [Interactive Deep Colorization Using Simultaneous Global and Local Inputs](https://ieeexplore.ieee.org/abstract/document/8683686) (also palette based) | ICASSP 2019 |  |
-| Line art | Paints Chainer | Online Demo | [[Demo]](https://paintschainer.preferred.tech/) [[code]](https://github.com/pfnet/PaintsChainer) <br/><br/> [[TensorFlow Reimplementation]](https://github.com/seekerzz/PaintsTensorFlow)|
+| Line art | Paints Chainer | Online Demo | [[Demo]](https://paintschainer.preferred.tech/) [[code]](https://github.com/pfnet/PaintsChainer) |
+| Line art | PaintsTensorFlow | Github Repo | [[Code]](https://github.com/rapidrabbit76/PaintsTensorFlow) |
 | Manga | MangaCraft | Online Demo | [[Demo]](https://github.com/lllyasviel/MangaCraft) |
 
 
