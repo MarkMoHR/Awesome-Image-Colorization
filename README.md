@@ -90,7 +90,7 @@ A collection of **Deep Learning** based Image Colorization papers and demos, inc
 | Natural Gray-Scale | [Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation](https://arxiv.org/pdf/1804.04128.pdf) (also palette based) | ECCV 2018 | [[code]](https://github.com/awesome-davian/Text2Colors/) |
 | Natural Gray-Scale | [Learning to Color from Language](https://arxiv.org/pdf/1804.06026.pdf) | NAACL 2018 | [[code]](https://github.com/superhans/colorfromlanguage) |
 | Line art | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](https://arxiv.org/pdf/1908.05840.pdf) | ICCV 2019 | [[code]](https://github.com/blandocs/Tag2Pix) [[code2 (GUI)]](https://github.com/MerHS/tag2pix-gui) |
-| Scene Sketch | [Language-based Colorization of Scene Sketches](http://sweb.cityu.edu.hk/hongbofu/doc/language-based_sketch_colorization_SA19.pdf) | SIGGRAPH Asia 2019 | [[code]](https://github.com/SketchyScene/SketchySceneColorization) |
+| Scene Sketch | [Language-based Colorization of Scene Sketches](http://sweb.cityu.edu.hk/hongbofu/doc/language-based_sketch_colorization_SA19.pdf) | SIGGRAPH Asia 2019 | [[code]](https://github.com/SketchyScene/SketchySceneColorization) [[project]](https://sketchyscene.github.io/SketchySceneColorization/) |
 
 
 ## 3. Video Colorization
