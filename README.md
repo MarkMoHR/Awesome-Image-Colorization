@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-A collection of **Deep Learning** based Image Colorization papers and demos, including Automatic and User Guided (*i.e.* with User Interaction) colorization, as well as video colorization.
+A collection of **Deep Learning** based Image Colorization papers and corresponding source code/demo program, including Automatic and User Guided (*i.e.* with User Interaction) colorization, as well as video colorization.
 
 > Feel free to create a PR or an issue.
 
@@ -46,18 +46,16 @@ A collection of **Deep Learning** based Image Colorization papers and demos, inc
 
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
-| Manga | [Manga colorization](https://dl.acm.org/citation.cfm?id=1142017) | SIGGRAPH 2006 |  |
-| Line art / Sketch | [LazyBrush: Flexible Painting Tool for Hand-drawn Cartoons](https://dcgi.fel.cvut.cz/home/sykorad/Sykora09-EG.pdf) | Eurographics 2009 | [[Project Home & Software]](https://dcgi.fel.cvut.cz/home/sykorad/lazybrush.html) <br/><br/>Unofficial:<br/> [[code1 (Matlab)]](https://github.com/kosua20/LazyBrush-implementation) <br/> [[code2 (C#)]](https://github.com/furaga/LazyBrushSharp) <br/> [[code3]](https://github.com/Evarin/LazyBrush) |
-| Line art / Sketch | [Outline Colorization through Tandem Adversarial Networks](https://arxiv.org/abs/1704.08834) | 1704.08834 | [[Demo]](http://color.kvfrans.com/) [[code]](https://github.com/kvfrans/deepcolor) |
+| Manga | [Manga colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/manga/manga.pdf) | SIGGRAPH 2006 | [[Project Home]](http://www.cse.cuhk.edu.hk/~ttwong/papers/manga/manga.html) <br/>Unofficial: [[code]](https://github.com/OVGULIU/Manga-Colorization)|
+| Line art / Sketch / Manga | [LazyBrush: Flexible Painting Tool for Hand-drawn Cartoons](https://dcgi.fel.cvut.cz/home/sykorad/Sykora09-EG.pdf) | Eurographics 2009 | [[Project Home & Software]](https://dcgi.fel.cvut.cz/home/sykorad/lazybrush.html) <br/><br/>Unofficial:<br/> [[code1 (Matlab)]](https://github.com/kosua20/LazyBrush-implementation) <br/> [[code2 (C#)]](https://github.com/furaga/LazyBrushSharp) <br/> [[code3]](https://github.com/Evarin/LazyBrush) |
+| Line art / Sketch | [Outline Colorization through Tandem Adversarial Networks](https://arxiv.org/abs/1704.08834) | 1704.08834 | [[code]](https://github.com/kvfrans/deepcolor) |
 | Line art / Sketch | [Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks](https://arxiv.org/pdf/1705.01908.pdf) | 1705.01908 | [[code]](https://github.com/irfanICMLL/Auto_painter) |
 | Natural Gray-Scale | [Real-Time User-Guided Image Colorization with Learned Deep Priors](https://arxiv.org/abs/1705.02999) | SIGGRAPH 2017 | [[project]](https://richzhang.github.io/ideepcolor/) [[code1]](https://github.com/junyanz/interactive-deep-colorization) [[code2]](https://github.com/richzhang/colorization-pytorch) |
 | Sketch | [Scribbler: Controlling Deep Image Synthesis with Sketch and Color](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sangkloy_Scribbler_Controlling_Deep_CVPR_2017_paper.pdf) | CVPR 2017 |  |
 | Line art | [User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks](https://arxiv.org/pdf/1808.03240.pdf) | ACM MM 2018 | [[code]](https://github.com/orashi/AlacGAN) |
-| Line art | Style2paints V3 : [Two-stage Sketch Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.pdf) | SIGGRAPH Asia 2018 | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.html) [[Code]](https://github.com/lllyasviel/style2paints#style2paints-v3) [[Demo]](http://s2p.moe/) <br/><br/>Unofficial:<br/> [[code]](https://github.com/Pengxiao-Wang/Style2Paints_V3) |
+| Line art | Style2paints V3 : [Two-stage Sketch Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.pdf) | SIGGRAPH Asia 2018 | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.html) <br/> [[Paper's code(V3)]](https://github.com/lllyasviel/style2paints/tree/master/V3) <br/> [[Portable software(V4.5)]](https://github.com/lllyasviel/style2paints) <br/><br/>Unofficial:<br/> [[code1]](https://github.com/Pengxiao-Wang/Style2Paints_V3)  [[code2]](https://github.com/SerialLain3170/Colorization)  <br/> [[PaintsTensorFlow]](https://github.com/rapidrabbit76/PaintsTensorFlow)|
 | Natural Gray-Scale | [Interactive Deep Colorization Using Simultaneous Global and Local Inputs](https://ieeexplore.ieee.org/abstract/document/8683686) (also palette based) | ICASSP 2019 |  |
-| Line art | Paints Chainer | Online Demo | [[Demo]](https://paintschainer.preferred.tech/) [[code]](https://github.com/pfnet/PaintsChainer) |
-| Line art | PaintsTensorFlow | Github Repo | [[Code]](https://github.com/rapidrabbit76/PaintsTensorFlow) |
-| Manga | MangaCraft | Online Demo | [[Demo]](https://github.com/lllyasviel/MangaCraft) |
+| Line art | PaintsChainer (Petalica Paint) | Online Demo (by Preferred Networks, Inc.) | [[V3 Demo]](https://paintschainer.preferred.tech/) [[V1 code]](https://github.com/pfnet/PaintsChainer) |
 
 
 ### 2.2 Based on reference color image
