@@ -36,10 +36,10 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [Unsupervised Diverse Colorization via Generative Adversarial Networks](https://arxiv.org/pdf/1702.06674.pdf) | ECML-PKDD 2017 | [[code]](https://github.com/ccyyatnet/COLORGAN) |
 | [Learning Diverse Image Colorization](http://openaccess.thecvf.com/content_cvpr_2017/papers/Deshpande_Learning_Diverse_Image_CVPR_2017_paper.pdf) | CVPR 2017 | [[code]](https://github.com/aditya12agd5/divcolor) |
 | [Structural Consistency and Controllability for Diverse Colorization](http://openaccess.thecvf.com/content_ECCV_2018/papers/Safa_Messaoud_Structural_Consistency_and_ECCV_2018_paper.pdf) | ECCV 2018 |  |
-| [Pixelated Semantic Colorization](https://arxiv.org/abs/1901.10889) | 1901.10889 |  |
 | [Coloring With Limited Data: Few-Shot Colorization via Memory Augmented Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yoo_Coloring_With_Limited_Data_Few-Shot_Colorization_via_Memory_Augmented_Networks_CVPR_2019_paper.pdf) | CVPR 2019 | [[project]](https://sjooyoo.github.io/MemoPainter_CVPR2019/)<br/><br/> Unofficial:<br/> [[code (PyTorch)]](https://github.com/dongheehand/MemoPainter-PyTorch)|
 | [ChromaGAN: Adversarial Picture Colorization with Semantic Class Distribution](http://openaccess.thecvf.com/content_WACV_2020/papers/Vitoria_ChromaGAN_Adversarial_Picture_Colorization_with_Semantic_Class_Distribution_WACV_2020_paper.pdf) | WACV 2020 | [[code]](https://github.com/pvitoria/ChromaGAN) |
 | [Instance-aware Image Colorization](https://arxiv.org/abs/2005.10825) | CVPR 2020 | [[code]](https://github.com/ericsujw/InstColorization) [[project]](https://ericsujw.github.io/InstColorization/) |
+| [Pixelated Semantic Colorization](https://search.proquest.com/docview/2388669369?pq-origsite=gscholar&fromopenview=true) | IJCV 2020 |  |
 
 ## 2. User Guided Image Colorization
 
