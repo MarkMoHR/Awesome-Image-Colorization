@@ -40,6 +40,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [ChromaGAN: Adversarial Picture Colorization with Semantic Class Distribution](http://openaccess.thecvf.com/content_WACV_2020/papers/Vitoria_ChromaGAN_Adversarial_Picture_Colorization_with_Semantic_Class_Distribution_WACV_2020_paper.pdf) | WACV 2020 | [[code]](https://github.com/pvitoria/ChromaGAN) |
 | [Instance-aware Image Colorization](http://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Instance-Aware_Image_Colorization_CVPR_2020_paper.pdf) | CVPR 2020 | [[code]](https://github.com/ericsujw/InstColorization) [[project]](https://ericsujw.github.io/InstColorization/) |
 | [Pixelated Semantic Colorization](https://search.proquest.com/docview/2388669369?pq-origsite=gscholar&fromopenview=true) | IJCV 2020 |  |
+| [Colorization Transformer](https://arxiv.org/abs/2102.04432) | ICLR 2021 | [[code]](https://github.com/google-research/google-research/tree/master/coltran) |
 
 ## 2. User Guided Image Colorization
 
@@ -72,7 +73,12 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Gray-Scale | [Automatic Example-based Image Colourisation using Location-Aware Cross-Scale Matching](https://ieeexplore.ieee.org/abstract/document/8699109) | TIP 2019 |  |
 | Line art / Sketch | [Adversarial Colorization Of Icons Based On Structure And Color Conditions](https://arxiv.org/pdf/1910.05253.pdf) | ACM MM 2019 | [[Code]](https://github.com/jxcodetw/Adversarial-Colorization-Of-Icons-Based-On-Structure-And-Color-Conditions) |
 | Line art / Sketch | [Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Reference-Based_Sketch_Image_Colorization_Using_Augmented-Self_Reference_and_Dense_Semantic_CVPR_2020_paper.pdf) | CVPR 2020 | Unofficial: [[code]](https://github.com/SerialLain3170/Colorization) |
-| Natural Gray-Scale | [Stylization-Based Architecture for Fast Deep Exemplar Colorization](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Stylization-Based_Architecture_for_Fast_Deep_Exemplar_Colorization_CVPR_2020_paper.pdf) | CVPR 2020 |  |
+| Natural Gray-Scale | [Stylization-Based Architecture for Fast Deep Exemplar Colorization](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Stylization-Based_Architecture_for_Fast_Deep_Exemplar_Colorization_CVPR_2020_paper.pdf) | CVPR 2020 | [[code]](https://github.com/xuzhongyou/Colorization) |
+| Manga | [Manga Filling Style Conversion with Screentone Variational Autoencoder](http://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.pdf) (also palette based) | SIGGRAPH Asia 2020 | [[project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.html) |
+| Line art / Sketch | [Active Colorization for Cartoon Line Drawings](https://ieeexplore.ieee.org/abstract/document/9143503) | TVCG 2020 |  |
+| Natural Gray-Scale | [Gray2ColorNet: Transfer More Colors from Reference Image](https://dl.acm.org/doi/abs/10.1145/3394171.3413594) | ACM MM 2020 |  |
+| Line art / Sketch | [Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization](https://arxiv.org/abs/2004.06718) | WACV 2021 |  |
+
 
 ### 2.3 Based on color palette
 
@@ -110,6 +116,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | --- | --- | --- |--- |
 | Natural Gray-Scale | [Switchable Temporal Propagation Network](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sifei_Liu_Switchable_Temporal_Propagation_ECCV_2018_paper.pdf) | ECCV 2018 |  |
 | Natural Gray-Scale | [Tracking Emerges by Colorizing Videos](http://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Vondrick_Self-supervised_Tracking_by_ECCV_2018_paper.pdf) | ECCV 2018 | [[code]](https://github.com/wbaek/tracking_via_colorization) |
-| Natural Gray-Scale | [Deep Exemplar-based Video Colorization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deep_Exemplar-Based_Video_Colorization_CVPR_2019_paper.pdf) | CVPR 2019 |  |
+| Natural Gray-Scale | [Deep Exemplar-based Video Colorization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deep_Exemplar-Based_Video_Colorization_CVPR_2019_paper.pdf) | CVPR 2019 | [[code]](https://github.com/zhangmozhe/Deep-Exemplar-based-Video-Colorization) |
 | Natural Gray-Scale | [DeepRemaster: Temporal Source-Reference Attention Networks for Comprehensive Video Enhancement](http://iizuka.cs.tsukuba.ac.jp/projects/remastering/data/remastering_siggraphasia2019.pdf) | SIGGRAPH Asia 2019 | [[code]](https://github.com/satoshiiizuka/siggraphasia2019_remastering) [[project]](http://iizuka.cs.tsukuba.ac.jp/projects/remastering/en/index.html) |
 | Line art | [Deep Line Art Video Colorization with a Few References](https://arxiv.org/abs/2003.10685) | 2003.10685 |  |
+| Natural Gray-Scale | [Reference-Based Video Colorization with Spatiotemporal Correspondence](https://arxiv.org/abs/2011.12528) | 2011.12528 |  |
