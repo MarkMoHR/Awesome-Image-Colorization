@@ -58,7 +58,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art | Style2paints V3 : [Two-stage Sketch Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.pdf) | SIGGRAPH Asia 2018 | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.html) <br/> [[Paper's code(V3)]](https://github.com/lllyasviel/style2paints/tree/master/V3) <br/> [[Portable software(V4.5)]](https://github.com/lllyasviel/style2paints) <br/><br/>Unofficial:<br/> [[code1]](https://github.com/Pengxiao-Wang/Style2Paints_V3)  [[code2]](https://github.com/SerialLain3170/Colorization)  <br/> [[PaintsTensorFlow]](https://github.com/rapidrabbit76/PaintsTensorFlow)|
 | Natural Gray-Scale | [Interactive Deep Colorization Using Simultaneous Global and Local Inputs](https://ieeexplore.ieee.org/abstract/document/8683686) (also palette based) | ICASSP 2019 |  |
 | Line art | PaintsChainer (Petalica Paint) | Online Demo (by Preferred Networks, Inc.) | [[V3 Demo]](https://paintschainer.preferred.tech/) [[V1 code]](https://github.com/pfnet/PaintsChainer) |
-| Line art | [User-Guided Line Art Flat Filling with Split Filling Mechanism](https://lllyasviel.github.io/SplitFilling/) | CVPR 2021 | [[Project]](https://lllyasviel.github.io/SplitFilling/) [[code]](https://github.com/lllyasviel/SplitFilling) |
+| Line art | [User-Guided Line Art Flat Filling with Split Filling Mechanism](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_User-Guided_Line_Art_Flat_Filling_With_Split_Filling_Mechanism_CVPR_2021_paper.pdf) | CVPR 2021 | [[Project]](https://lllyasviel.github.io/SplitFilling/) [[code]](https://github.com/lllyasviel/SplitFilling) |
 
 
 ### 2.2 Based on reference color image
