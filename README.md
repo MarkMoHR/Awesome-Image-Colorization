@@ -17,9 +17,10 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
   - [Based on reference color image](#22-based-on-reference-color-image)
   - [Based on color palette](#23-based-on-color-palette)
   - [Based on language(text)](#24-based-on-language-or-text)
-- [Video Colorization](#3-video-colorization)
-  - [Automatically](#31-automatically)
-  - [Based on reference](#32-based-on-reference)
+- [Techniques of Improving Image Colorization](#3-techniques-of-improving-image-colorization)
+- [Video Colorization](#4-video-colorization)
+  - [Automatically](#41-automatically)
+  - [Based on reference](#42-based-on-reference)
 
 
 ---
@@ -102,17 +103,23 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](https://arxiv.org/pdf/1908.05840.pdf) | ICCV 2019 | [[code]](https://github.com/blandocs/Tag2Pix) [[code2 (GUI)]](https://github.com/MerHS/tag2pix-gui) |
 | Scene Sketch | [Language-based Colorization of Scene Sketches](http://sweb.cityu.edu.hk/hongbofu/doc/language-based_sketch_colorization_SA19.pdf) | SIGGRAPH Asia 2019 | [[code]](https://github.com/SketchyScene/SketchySceneColorization) [[project]](https://sketchyscene.github.io/SketchySceneColorization/) |
 
+## 3. Techniques of Improving Image Colorization
 
-## 3. Video Colorization
+| Paper | Source | Code/Project Link  |
+| --- | --- |--- |
+| [Deep Edge-Aware Interactive Colorization against Color-Bleeding Effects](https://arxiv.org/abs/2107.01619) | ICCV 2021 | [[project]](https://eungyeupkim.github.io/edge-enhancing-colorization/) |
 
-### 3.1 Automatically
+
+## 4. Video Colorization
+
+### 4.1 Automatically
 
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
 | Natural Gray-Scale | [Fully Automatic Video Colorization with Self-Regularization and Diversity](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lei_Fully_Automatic_Video_Colorization_With_Self-Regularization_and_Diversity_CVPR_2019_paper.pdf) | CVPR 2019 | [[code]](https://github.com/ChenyangLEI/Fully-Automatic-Video-Colorization-with-Self-Regularization-and-Diversity) |
 
 
-### 3.2 Based on reference
+### 4.2 Based on reference
 
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
