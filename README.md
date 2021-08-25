@@ -42,6 +42,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [Pixelated Semantic Colorization](https://search.proquest.com/docview/2388669369?pq-origsite=gscholar&fromopenview=true) | IJCV 2020 |  |
 | [Colorization Transformer](https://arxiv.org/abs/2102.04432) | ICLR 2021 | [[code]](https://github.com/google-research/google-research/tree/master/coltran) |
 | [Focusing on Persons: Colorizing Old Images Learning from Modern Historical Movies](https://arxiv.org/abs/2108.06515) | ACM MM 2021 | [[code]](https://github.com/BestiVictory/MHMD) |
+| [Towards Vivid and Diverse Image Colorization with Generative Color Prior](https://arxiv.org/abs/2108.08826) | ICCV 2021 | |
 | [DeOldify](https://github.com/jantic/DeOldify) | `Software` | [[code]](https://github.com/jantic/DeOldify) |
 
 ## 2. User Guided Image Colorization
