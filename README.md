@@ -111,6 +111,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Paper | Source | Code/Project Link  |
 | --- | --- |--- |
 | [Deep Edge-Aware Interactive Colorization against Color-Bleeding Effects](https://arxiv.org/abs/2107.01619) | ICCV 2021 | [[project]](https://eungyeupkim.github.io/edge-enhancing-colorization/) |
+| [Line Art Colorization Based on Explicit Region Segmentation]() | Pacific Graphics 2021 | [[code]](https://github.com/Ricardo-L-C/ColorizationWithRegion) |
 
 
 ## 4. Video Colorization
