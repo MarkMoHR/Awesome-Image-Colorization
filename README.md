@@ -84,6 +84,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [Active Colorization for Cartoon Line Drawings](https://ieeexplore.ieee.org/abstract/document/9143503) | TVCG 2020 |  |
 | Natural Gray-Scale | [Gray2ColorNet: Transfer More Colors from Reference Image](https://dl.acm.org/doi/abs/10.1145/3394171.3413594) | ACM MM 2020 |  |
 | Line art / Sketch | [Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization](https://arxiv.org/abs/2004.06718) | WACV 2021 |  |
+| Natural Gray-Scale | [Globally and Locally Semantic Colorization via Exemplar-Based Broad-GAN](https://ieeexplore.ieee.org/abstract/document/9566701) | TIP 2021 |  |
 
 
 ### 2.3 Based on color palette
