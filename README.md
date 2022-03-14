@@ -43,6 +43,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [Colorization Transformer](https://arxiv.org/abs/2102.04432) | ICLR 2021 | [[code]](https://github.com/google-research/google-research/tree/master/coltran) |
 | [Focusing on Persons: Colorizing Old Images Learning from Modern Historical Movies](https://arxiv.org/abs/2108.06515) | ACM MM 2021 | [[code]](https://github.com/BestiVictory/MHMD) |
 | [Towards Vivid and Diverse Image Colorization with Generative Color Prior](https://arxiv.org/abs/2108.08826) | ICCV 2021 | |
+| [SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution](https://www.aaai.org/AAAI22Papers/AAAI-528.ZhangJ.pdf) (also reference based) | AAAI 2022 | |
 | [DeOldify](https://github.com/jantic/DeOldify) | `Software` | [[code]](https://github.com/jantic/DeOldify) |
 
 ## 2. User Guided Image Colorization
@@ -86,6 +87,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization](https://arxiv.org/abs/2004.06718) | WACV 2021 |  |
 | Natural Gray-Scale | [Globally and Locally Semantic Colorization via Exemplar-Based Broad-GAN](https://ieeexplore.ieee.org/abstract/document/9566701) | TIP 2021 |  |
 | Natural Gray-Scale | [Yes, "Attention Is All You Need", for Exemplar based Colorization](https://dl.acm.org/doi/abs/10.1145/3474085.3475385) | ACM MM 2021 |  |
+| Natural Gray-Scale | [SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution](https://www.aaai.org/AAAI22Papers/AAAI-528.ZhangJ.pdf) (also automatic) | AAAI 2022 | |
 
 
 ### 2.3 Based on color palette
