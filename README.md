@@ -46,6 +46,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution](https://www.aaai.org/AAAI22Papers/AAAI-528.ZhangJ.pdf) (also reference based) | AAAI 2022 | |
 | [Bridging the Domain Gap towards Generalization in Automatic Colorization](https://github.com/Lhyejin/DG-Colorization) | ECCV 2022 | [[code]](https://github.com/Lhyejin/DG-Colorization) |
 | [ColorFormer: Image Colorization via Color Memory assisted Hybrid-attention Transformer]() | ECCV 2022 |  |
+| [BigColor: Colorization using a Generative Color Prior for Natural Images](https://kimgeonung.github.io/bigcolor/) | ECCV 2022 | [[project]](https://kimgeonung.github.io/bigcolor/) [[code]](https://github.com/KIMGEONUNG/BigColor) |
 | [DeOldify](https://github.com/jantic/DeOldify) | `Software` | [[code]](https://github.com/jantic/DeOldify) |
 
 ## 2. User Guided Image Colorization
