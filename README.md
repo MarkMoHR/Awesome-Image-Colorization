@@ -42,7 +42,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [Pixelated Semantic Colorization](https://search.proquest.com/docview/2388669369?pq-origsite=gscholar&fromopenview=true) | IJCV 2020 |  |
 | [Colorization Transformer](https://arxiv.org/abs/2102.04432) | ICLR 2021 | [[code]](https://github.com/google-research/google-research/tree/master/coltran) |
 | [Focusing on Persons: Colorizing Old Images Learning from Modern Historical Movies](https://arxiv.org/abs/2108.06515) | ACM MM 2021 | [[code]](https://github.com/BestiVictory/MHMD) |
-| [Towards Vivid and Diverse Image Colorization with Generative Color Prior](https://arxiv.org/abs/2108.08826) | ICCV 2021 | |
+| [Towards Vivid and Diverse Image Colorization with Generative Color Prior](https://arxiv.org/abs/2108.08826) | ICCV 2021 | [[code]](https://github.com/ToTheBeginning/GCP-Colorization) |
 | [SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution](https://www.aaai.org/AAAI22Papers/AAAI-528.ZhangJ.pdf) (also reference based) | AAAI 2022 | |
 | [Bridging the Domain Gap towards Generalization in Automatic Colorization](https://github.com/Lhyejin/DG-Colorization) | ECCV 2022 | [[code]](https://github.com/Lhyejin/DG-Colorization) |
 | [ColorFormer: Image Colorization via Color Memory assisted Hybrid-attention Transformer]() | ECCV 2022 |  |
