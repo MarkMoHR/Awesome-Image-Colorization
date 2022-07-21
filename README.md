@@ -11,16 +11,17 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 
 **Outline**
 
-- [Automatic Image Colorization](#1-automatic-image-colorization)
-- [User Guided Image Colorization](#2-user-guided-image-colorization)
-  - [Based on color strokes](#21-based-on-color-strokes)
-  - [Based on reference color image](#22-based-on-reference-color-image)
-  - [Based on color palette](#23-based-on-color-palette)
-  - [Based on language(text)](#24-based-on-language-or-text)
-- [Techniques of Improving Image Colorization](#3-techniques-of-improving-image-colorization)
-- [Video Colorization](#4-video-colorization)
-  - [Automatically](#41-automatically)
-  - [Based on reference](#42-based-on-reference)
+- [Awesome-Image-Colorization](#awesome-image-colorization)
+  - [1. Automatic Image Colorization](#1-automatic-image-colorization)
+  - [2. User Guided Image Colorization](#2-user-guided-image-colorization)
+    - [2.1 Based on color strokes](#21-based-on-color-strokes)
+    - [2.2 Based on reference color image](#22-based-on-reference-color-image)
+    - [2.3 Based on color palette](#23-based-on-color-palette)
+    - [2.4 Based on language or text](#24-based-on-language-or-text)
+  - [3. Techniques of Improving Image Colorization](#3-techniques-of-improving-image-colorization)
+  - [4. Video Colorization](#4-video-colorization)
+    - [4.1 Automatically](#41-automatically)
+    - [4.2 Based on reference](#42-based-on-reference)
 
 
 ---
@@ -42,7 +43,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [Pixelated Semantic Colorization](https://search.proquest.com/docview/2388669369?pq-origsite=gscholar&fromopenview=true) | IJCV 2020 |  |
 | [Colorization Transformer](https://arxiv.org/abs/2102.04432) | ICLR 2021 | [[code]](https://github.com/google-research/google-research/tree/master/coltran) |
 | [Focusing on Persons: Colorizing Old Images Learning from Modern Historical Movies](https://arxiv.org/abs/2108.06515) | ACM MM 2021 | [[code]](https://github.com/BestiVictory/MHMD) |
-| [Towards Vivid and Diverse Image Colorization with Generative Color Prior](https://arxiv.org/abs/2108.08826) | ICCV 2021 | |
+| [Towards Vivid and Diverse Image Colorization with Generative Color Prior](https://arxiv.org/abs/2108.08826) | ICCV 2021 | [[code]](https://github.com/ToTheBeginning/GCP-Colorization) |
 | [SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution](https://www.aaai.org/AAAI22Papers/AAAI-528.ZhangJ.pdf) (also reference based) | AAAI 2022 | |
 | [Bridging the Domain Gap towards Generalization in Automatic Colorization](https://github.com/Lhyejin/DG-Colorization) | ECCV 2022 | [[code]](https://github.com/Lhyejin/DG-Colorization) |
 | [ColorFormer: Image Colorization via Color Memory assisted Hybrid-attention Transformer]() | ECCV 2022 |  |
