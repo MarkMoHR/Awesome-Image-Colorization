@@ -27,6 +27,14 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 
 ## 1. Automatic Image Colorization
 
+- Software / Demo
+
+| Name | Author/Owner | Code/Project Link  |
+| --- | --- | --- |
+| DeOldify | Jason Antic | [[link]](https://github.com/jantic/DeOldify) |
+
+- Papers
+
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Learning Large-Scale Automatic Image Colorization](http://openaccess.thecvf.com/content_iccv_2015/papers/Deshpande_Learning_Large-Scale_Automatic_ICCV_2015_paper.pdf) | ICCV 2015 | [[project]](http://vision.cs.illinois.edu/projects/lscolor/) [[code]](https://github.com/aditya12agd5/iccv15_lscolorization) |
@@ -47,24 +55,32 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [Bridging the Domain Gap towards Generalization in Automatic Colorization](https://github.com/Lhyejin/DG-Colorization) | ECCV 2022 | [[code]](https://github.com/Lhyejin/DG-Colorization) |
 | [ColorFormer: Image Colorization via Color Memory assisted Hybrid-attention Transformer]() | ECCV 2022 |  |
 | [BigColor: Colorization using a Generative Color Prior for Natural Images](https://kimgeonung.github.io/bigcolor/) | ECCV 2022 | [[project]](https://kimgeonung.github.io/bigcolor/) [[code]](https://github.com/KIMGEONUNG/BigColor) |
-| [DeOldify](https://github.com/jantic/DeOldify) | `Software` | [[code]](https://github.com/jantic/DeOldify) |
+| [CT2: Colorization Transformer via Color Tokens](https://ci.idm.pku.edu.cn/Weng_ECCV22b.pdf) | ECCV 2022 | [[code]](https://github.com/shuchenweng/CT2) |
 
 ## 2. User Guided Image Colorization
 
 ### 2.1 Based on color strokes
 
+- Software / Demo
+
+| Image Type | Name | Author/Owner | Code/Project Link  |
+| --- | --- | --- | --- |
+| Line art | PaintsChainer (Petalica Paint) | Preferred Networks, Inc. | [[V3 Demo]](https://paintschainer.preferred.tech/) [[V1 code]](https://github.com/pfnet/PaintsChainer) |
+| Line art | Style2Paints (SEPA) | Style2Paints Research | [[link]](https://github.com/lllyasviel/style2paints) |
+
+- Papers
+
 | Image Type | Paper | Source | Code/Project Link  |
-| --- | --- | --- |--- |
+| --- | --- | --- | --- |
 | Manga | [Manga colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/manga/manga.pdf) | SIGGRAPH 2006 | [[Project Home]](http://www.cse.cuhk.edu.hk/~ttwong/papers/manga/manga.html) <br/>Unofficial: [[code]](https://github.com/OVGULIU/Manga-Colorization)|
 | Line art / Sketch / Manga | [LazyBrush: Flexible Painting Tool for Hand-drawn Cartoons](https://dcgi.fel.cvut.cz/home/sykorad/Sykora09-EG.pdf) | Eurographics 2009 | [[Project Home & Software]](https://dcgi.fel.cvut.cz/home/sykorad/lazybrush.html) <br/><br/>Unofficial:<br/> [[code1 (Matlab)]](https://github.com/kosua20/LazyBrush-implementation) <br/> [[code2 (C#)]](https://github.com/furaga/LazyBrushSharp) <br/> [[code3]](https://github.com/Evarin/LazyBrush) |
 | Line art / Sketch | [Outline Colorization through Tandem Adversarial Networks](https://arxiv.org/abs/1704.08834) | 1704.08834 | [[code]](https://github.com/kvfrans/deepcolor) |
-| Line art / Sketch | [Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks](https://arxiv.org/pdf/1705.01908.pdf) | 1705.01908 | [[code]](https://github.com/irfanICMLL/Auto_painter) |
 | Natural Gray-Scale | [Real-Time User-Guided Image Colorization with Learned Deep Priors](https://arxiv.org/abs/1705.02999) | SIGGRAPH 2017 | [[project]](https://richzhang.github.io/ideepcolor/) [[code1]](https://github.com/junyanz/interactive-deep-colorization) [[code2]](https://github.com/richzhang/colorization-pytorch) |
 | Sketch | [Scribbler: Controlling Deep Image Synthesis with Sketch and Color](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sangkloy_Scribbler_Controlling_Deep_CVPR_2017_paper.pdf) | CVPR 2017 |  |
+| Line art / Sketch | [Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks](https://arxiv.org/pdf/1705.01908.pdf) | Neurocomputing 2018  | [[code]](https://github.com/irfanICMLL/Auto_painter) |
 | Line art | [User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks](https://arxiv.org/pdf/1808.03240.pdf) | ACM MM 2018 | [[code]](https://github.com/orashi/AlacGAN) |
-| Line art | Style2paints V3 : [Two-stage Sketch Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.pdf) | SIGGRAPH Asia 2018 | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.html) <br/> [[Paper's code(V3)]](https://github.com/lllyasviel/style2paints/tree/master/V3) <br/> [[Portable software(V4.5)]](https://github.com/lllyasviel/style2paints) <br/><br/>Unofficial:<br/> [[code1]](https://github.com/Pengxiao-Wang/Style2Paints_V3)  [[code2]](https://github.com/SerialLain3170/Colorization)  <br/> [[PaintsTensorFlow]](https://github.com/rapidrabbit76/PaintsTensorFlow)|
+| Line art | Style2paints V3 : [Two-stage Sketch Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.pdf) | SIGGRAPH Asia 2018 | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.html) <br/> [[Paper's code(V3)]](https://github.com/lllyasviel/style2paints/tree/master/V3) <br/><br/>Unofficial:<br/> [[code1]](https://github.com/Pengxiao-Wang/Style2Paints_V3)  [[code2]](https://github.com/SerialLain3170/Colorization)  <br/> [[PaintsTensorFlow]](https://github.com/rapidrabbit76/PaintsTensorFlow)|
 | Natural Gray-Scale | [Interactive Deep Colorization Using Simultaneous Global and Local Inputs](https://ieeexplore.ieee.org/abstract/document/8683686) (also palette based) | ICASSP 2019 |  |
-| Line art | PaintsChainer (Petalica Paint) | Online Demo (by Preferred Networks, Inc.) | [[V3 Demo]](https://paintschainer.preferred.tech/) [[V1 code]](https://github.com/pfnet/PaintsChainer) |
 | Line art | [User-Guided Line Art Flat Filling with Split Filling Mechanism](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_User-Guided_Line_Art_Flat_Filling_With_Split_Filling_Mechanism_CVPR_2021_paper.pdf) | CVPR 2021 | [[Project]](https://lllyasviel.github.io/SplitFilling/) [[code]](https://github.com/lllyasviel/SplitFilling) |
 | Line art | [Dual Color Space Guided Sketch Colorization](https://ieeexplore.ieee.org/abstract/document/9515572) | TIP 2021 |  |
 
@@ -114,7 +130,8 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Gray-Scale | [Learning to Color from Language](https://arxiv.org/pdf/1804.06026.pdf) | NAACL 2018 | [[code]](https://github.com/superhans/colorfromlanguage) |
 | Line art | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](https://arxiv.org/pdf/1908.05840.pdf) | ICCV 2019 | [[code]](https://github.com/blandocs/Tag2Pix) [[code2 (GUI)]](https://github.com/MerHS/tag2pix-gui) |
 | Scene Sketch | [Language-based Colorization of Scene Sketches](http://sweb.cityu.edu.hk/hongbofu/doc/language-based_sketch_colorization_SA19.pdf) | SIGGRAPH Asia 2019 | [[code]](https://github.com/SketchyScene/SketchySceneColorization) [[project]](https://sketchyscene.github.io/SketchySceneColorization/) |
-| Natural Gray-Scale | [L-CoDe: Language-based Colorization using Color-object Decoupled Conditions](https://ci.idm.pku.edu.cn/Weng_AAAI22.pdf) | AAAI 2022 | |
+| Natural Gray-Scale | [L-CoDe: Language-based Colorization using Color-object Decoupled Conditions](https://ci.idm.pku.edu.cn/Weng_AAAI22.pdf) | AAAI 2022 | [[code]](https://github.com/changzheng123/L-CoDe) |
+| Natural Gray-Scale | [L-CoDer: Language-based Colorization with Color-object Decoupling Transformer](https://ci.idm.pku.edu.cn/Weng_ECCV22g.pdf) | ECCV 2022 | [[code]](https://github.com/changzheng123/L-CoDer) |
 
 ## 3. Techniques of Improving Image Colorization
 
