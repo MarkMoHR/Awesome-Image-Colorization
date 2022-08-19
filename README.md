@@ -56,6 +56,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [ColorFormer: Image Colorization via Color Memory assisted Hybrid-attention Transformer]() | ECCV 2022 |  |
 | [BigColor: Colorization using a Generative Color Prior for Natural Images](https://kimgeonung.github.io/bigcolor/) | ECCV 2022 | [[project]](https://kimgeonung.github.io/bigcolor/) [[code]](https://github.com/KIMGEONUNG/BigColor) |
 | [CT2: Colorization Transformer via Color Tokens](https://ci.idm.pku.edu.cn/Weng_ECCV22b.pdf) | ECCV 2022 | [[code]](https://github.com/shuchenweng/CT2) |
+| [iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer](https://arxiv.org/pdf/2207.06831.pdf) | WACV 2023 | [[project]](https://pmh9960.github.io/research/iColoriT/) [[code]](https://github.com/pmh9960/iColoriT) |
 
 ## 2. User Guided Image Colorization
 
