@@ -110,6 +110,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Gray-Scale | [SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution](https://www.aaai.org/AAAI22Papers/AAAI-528.ZhangJ.pdf) (also automatic) | AAAI 2022 | |
 | Line art / Sketch | [Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Style-Structure_Disentangled_Features_and_Normalizing_Flows_for_Diverse_Icon_Colorization_CVPR_2022_paper.pdf) | CVPR 2022 |  |
 | Line art / Sketch | [Eliminating Gradient Conflict in Reference-based Line-Art Colorization](https://arxiv.org/abs/2207.06095) | ECCV 2022 | [[code]](https://github.com/kunkun0w0/SGA) |
+| Natural Gray-Scale | [Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization](https://arxiv.org/abs/2112.01335) | ECCV 2022 |  |
 
 
 ### 2.3 Based on color palette
@@ -121,6 +122,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Gray-Scale | [Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation](https://arxiv.org/pdf/1804.04128.pdf) (also text based) | ECCV 2018 | [[code]](https://github.com/awesome-davian/Text2Colors/) |
 | Natural Gray-Scale | [Example-Based Colourization Via Dense Encoding Pyramids](http://www.shengfenghe.com/uploads/1/5/1/3/15132160/cgf_13659_rev_ev.pdf) (also reference based) | Pacific Graphics 2018 | [[code]](https://github.com/chufengxiao/Example-based-Colorization-via-Dense-Encoding-pyramids) |
 | Natural Gray-Scale | [Interactive Deep Colorization Using Simultaneous Global and Local Inputs](https://ieeexplore.ieee.org/abstract/document/8683686) (also strokes based) | ICASSP 2019 |  |
+| Natural Gray-Scale | [PalGAN: Image Colorization with Palette Generative Adversarial Networks](https://github.com/shepnerd/PalGAN) | ECCV 2022 | [[code]](https://github.com/shepnerd/PalGAN) |
 
 ### 2.4 Based on language or text
 
