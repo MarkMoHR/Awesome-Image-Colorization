@@ -17,6 +17,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
   - [Based on reference color image](#22-based-on-reference-color-image)
   - [Based on color palette](#23-based-on-color-palette)
   - [Based on language(text)](#24-based-on-language-or-text)
+  - [Multi-modal (Joint inputs)](#25-multi-modal-joint-inputs)
 - [Techniques of Improving Image Colorization](#3-techniques-of-improving-image-colorization)
 - [Video Colorization](#4-video-colorization)
   - [Automatically](#41-automatically)
@@ -57,6 +58,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [BigColor: Colorization using a Generative Color Prior for Natural Images](https://kimgeonung.github.io/bigcolor/) | ECCV 2022 | [[project]](https://kimgeonung.github.io/bigcolor/) [[code]](https://github.com/KIMGEONUNG/BigColor) |
 | [CT2: Colorization Transformer via Color Tokens](https://ci.idm.pku.edu.cn/Weng_ECCV22b.pdf) | ECCV 2022 | [[code]](https://github.com/shuchenweng/CT2) |
 | [Disentangled Image Colorization via Global Anchors](https://menghanxia.github.io/papers/2022_disco_main.pdf) | SIGGRAPH Asia 2022 | [[code]](https://github.com/MenghanXia/DisentangledColorization) [[project]](https://menghanxia.github.io/projects/disco.html) |
+| [UniColor: A Unified Framework for Multi-Modal Colorization with Transformer](https://arxiv.org/abs/2209.11223) (also multi-modal) | SIGGRAPH Asia 2022 | [[project]](https://luckyhzt.github.io/unicolor) |
 
 ## 2. User Guided Image Colorization
 
@@ -81,7 +83,6 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks](https://arxiv.org/pdf/1705.01908.pdf) | Neurocomputing 2018  | [[code]](https://github.com/irfanICMLL/Auto_painter) |
 | Line art | [User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks](https://arxiv.org/pdf/1808.03240.pdf) | ACM MM 2018 | [[code]](https://github.com/orashi/AlacGAN) |
 | Line art | Style2paints V3 : [Two-stage Sketch Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.pdf) | SIGGRAPH Asia 2018 | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.html) <br/> [[Paper's code(V3)]](https://github.com/lllyasviel/style2paints/tree/master/V3) <br/><br/>Unofficial:<br/> [[code1]](https://github.com/Pengxiao-Wang/Style2Paints_V3)  [[code2]](https://github.com/SerialLain3170/Colorization)  <br/> [[PaintsTensorFlow]](https://github.com/rapidrabbit76/PaintsTensorFlow)|
-| Natural Gray-Scale | [Interactive Deep Colorization Using Simultaneous Global and Local Inputs](https://ieeexplore.ieee.org/abstract/document/8683686) (also palette based) | ICASSP 2019 |  |
 | Line art | [User-Guided Line Art Flat Filling with Split Filling Mechanism](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_User-Guided_Line_Art_Flat_Filling_With_Split_Filling_Mechanism_CVPR_2021_paper.pdf) | CVPR 2021 | [[Project]](https://lllyasviel.github.io/SplitFilling/) [[code]](https://github.com/lllyasviel/SplitFilling) |
 | Line art | [Dual Color Space Guided Sketch Colorization](https://ieeexplore.ieee.org/abstract/document/9515572) | TIP 2021 |  |
 | Natural Gray-Scale | [iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer](https://arxiv.org/pdf/2207.06831.pdf) | WACV 2023 | [[project]](https://pmh9960.github.io/research/iColoriT/) [[code]](https://github.com/pmh9960/iColoriT) |
@@ -92,7 +93,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
 | Line art | Style2paints V1 : [Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN](https://arxiv.org/abs/1706.03319) | ACPR 2017 | [[Code]](https://github.com/lllyasviel/style2paints#style2paints-v1) <br/><br/>Unofficial:<br/>[[code]](https://github.com/SerialLain3170/Colorization) |
-| Manga | [Comicolorization: Semi-Automatic Manga Colorization](https://arxiv.org/pdf/1706.06759.pdf) (also palette based) | SIGGRAPH Asia 2017 | [[code]](https://github.com/DwangoMediaVillage/Comicolorization) |
+| Manga | [Comicolorization: Semi-Automatic Manga Colorization](https://arxiv.org/pdf/1706.06759.pdf) | SIGGRAPH Asia 2017 | [[code]](https://github.com/DwangoMediaVillage/Comicolorization) |
 | Sketch | [TextureGAN: Controlling Deep Image Synthesis with Texture Patches](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_TextureGAN_Controlling_Deep_CVPR_2018_paper.pdf) | CVPR 2018 | [[code]](https://github.com/janesjanes/Pytorch-TextureGAN) |
 | Natural Gray-Scale | [Deep Exemplar-based Colorization](https://arxiv.org/pdf/1807.06587.pdf) | SIGGRAPH 2018 | [[code]](https://github.com/msracver/Deep-Exemplar-based-Colorization) |
 | Natural Gray-Scale | [Example-Based Colourization Via Dense Encoding Pyramids](http://www.shengfenghe.com/uploads/1/5/1/3/15132160/cgf_13659_rev_ev.pdf) (also palette based) | Pacific Graphics 2018 | [[code]](https://github.com/chufengxiao/Example-based-Colorization-via-Dense-Encoding-pyramids) |
@@ -101,7 +102,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [Adversarial Colorization Of Icons Based On Structure And Color Conditions](https://arxiv.org/pdf/1910.05253.pdf) | ACM MM 2019 | [[Code]](https://github.com/jxcodetw/Adversarial-Colorization-Of-Icons-Based-On-Structure-And-Color-Conditions) |
 | Line art / Sketch | [Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Reference-Based_Sketch_Image_Colorization_Using_Augmented-Self_Reference_and_Dense_Semantic_CVPR_2020_paper.pdf) | CVPR 2020 | [[project]](https://ssuhan.github.io/RSC_CVPR20/) Unofficial: [[code]](https://github.com/SerialLain3170/Colorization) |
 | Natural Gray-Scale | [Stylization-Based Architecture for Fast Deep Exemplar Colorization](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Stylization-Based_Architecture_for_Fast_Deep_Exemplar_Colorization_CVPR_2020_paper.pdf) | CVPR 2020 | [[code]](https://github.com/xuzhongyou/Colorization) |
-| Manga | [Manga Filling Style Conversion with Screentone Variational Autoencoder](http://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.pdf) (also palette based) | SIGGRAPH Asia 2020 | [[project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.html) |
+| Manga | [Manga Filling Style Conversion with Screentone Variational Autoencoder](http://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.pdf) | SIGGRAPH Asia 2020 | [[project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.html) |
 | Line art / Sketch | [Colorization of Line Drawings with Empty Pupils](https://www.gwern.net/docs/anime/2020-akita.pdf) | PG 2020 |  |
 | Line art / Sketch | [Active Colorization for Cartoon Line Drawings](https://ieeexplore.ieee.org/abstract/document/9143503) | TVCG 2020 |  |
 | Natural Gray-Scale | [Gray2ColorNet: Transfer More Colors from Reference Image](https://dl.acm.org/doi/abs/10.1145/3394171.3413594) | ACM MM 2020 |  |
@@ -119,10 +120,8 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
 | Natural Image | [Palette-based Photo Recoloring](https://gfx.cs.princeton.edu/pubs/Chang_2015_PPR/chang2015-palette_small.pdf) | SIGGRAPH 2015 | [[project]](https://gfx.cs.princeton.edu/pubs/Chang_2015_PPR/index.php) |
-| Manga | [Comicolorization: Semi-Automatic Manga Colorization](https://arxiv.org/pdf/1706.06759.pdf) (also reference based) | SIGGRAPH Asia 2017 | [[code]](https://github.com/DwangoMediaVillage/Comicolorization) |
 | Natural Gray-Scale | [Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation](https://arxiv.org/pdf/1804.04128.pdf) (also text based) | ECCV 2018 | [[code]](https://github.com/awesome-davian/Text2Colors/) |
 | Natural Gray-Scale | [Example-Based Colourization Via Dense Encoding Pyramids](http://www.shengfenghe.com/uploads/1/5/1/3/15132160/cgf_13659_rev_ev.pdf) (also reference based) | Pacific Graphics 2018 | [[code]](https://github.com/chufengxiao/Example-based-Colorization-via-Dense-Encoding-pyramids) |
-| Natural Gray-Scale | [Interactive Deep Colorization Using Simultaneous Global and Local Inputs](https://ieeexplore.ieee.org/abstract/document/8683686) (also strokes based) | ICASSP 2019 |  |
 | Natural Gray-Scale | [PalGAN: Image Colorization with Palette Generative Adversarial Networks](https://github.com/shepnerd/PalGAN) | ECCV 2022 | [[code]](https://github.com/shepnerd/PalGAN) |
 
 ### 2.4 Based on language or text
@@ -136,6 +135,16 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Scene Sketch | [Language-based Colorization of Scene Sketches](http://sweb.cityu.edu.hk/hongbofu/doc/language-based_sketch_colorization_SA19.pdf) | SIGGRAPH Asia 2019 | [[code]](https://github.com/SketchyScene/SketchySceneColorization) [[project]](https://sketchyscene.github.io/SketchySceneColorization/) |
 | Natural Gray-Scale | [L-CoDe: Language-based Colorization using Color-object Decoupled Conditions](https://ci.idm.pku.edu.cn/Weng_AAAI22.pdf) | AAAI 2022 | [[code]](https://github.com/changzheng123/L-CoDe) |
 | Natural Gray-Scale | [L-CoDer: Language-based Colorization with Color-object Decoupling Transformer](https://ci.idm.pku.edu.cn/Weng_ECCV22g.pdf) | ECCV 2022 | [[code]](https://github.com/changzheng123/L-CoDer) |
+
+
+### 2.5 Multi-modal (Joint inputs)
+
+
+| Image Type | Paper | Input | Source | Code/Project Link  |
+| --- | --- |--- | --- |--- |
+| Natural Gray-Scale | [Interactive Deep Colorization Using Simultaneous Global and Local Inputs](https://ieeexplore.ieee.org/abstract/document/8683686) | stroke + palette | ICASSP 2019 |  |
+| Natural Gray-Scale | [UniColor: A Unified Framework for Multi-Modal Colorization with Transformer](https://arxiv.org/abs/2209.11223) | stroke + exemplar + text | SIGGRAPH Asia 2022 | [[project]](https://luckyhzt.github.io/unicolor) |
+
 
 ## 3. Techniques of Improving Image Colorization
 
