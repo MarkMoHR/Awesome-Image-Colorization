@@ -33,6 +33,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Name | Author/Owner | Code/Project Link  |
 | --- | --- | --- |
 | DeOldify | Jason Antic | [[link]](https://github.com/jantic/DeOldify) |
+| Palette.fm | Emil Wallner | [[link]](https://palette.fm/) |
 
 - Papers
 
