@@ -18,6 +18,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
   - [Based on color palette](#23-based-on-color-palette)
   - [Based on language(text)](#24-based-on-language-or-text)
   - [Multi-modal (Joint inputs)](#25-multi-modal-joint-inputs)
+  - [Interactive Colorization](#26-interactive-colorization)
 - [Techniques of Improving Image Colorization](#3-techniques-of-improving-image-colorization)
 - [Video Colorization](#4-video-colorization)
   - [Automatically](#41-automatically)
@@ -145,6 +146,13 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | --- | --- |--- | --- |--- |
 | Natural Gray-Scale | [Interactive Deep Colorization Using Simultaneous Global and Local Inputs](https://ieeexplore.ieee.org/abstract/document/8683686) | stroke + palette | ICASSP 2019 |  |
 | Natural Gray-Scale | [UniColor: A Unified Framework for Multi-Modal Colorization with Transformer](https://arxiv.org/abs/2209.11223) | stroke + exemplar + text | SIGGRAPH Asia 2022 | [[project]](https://luckyhzt.github.io/unicolor) |
+
+
+### 2.6 Interactive Colorization
+
+| Image Type | Paper | Source | Code/Project Link  |
+| --- | --- | --- |--- |
+| Line art | [Guiding Users to Where to Give Color Hints for Efficient Interactive Sketch Colorization via Unsupervised Region Prioritization](https://arxiv.org/abs/2210.14270) | WACV 2023 |  |
 
 
 ## 3. Techniques of Improving Image Colorization
