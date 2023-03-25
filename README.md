@@ -13,9 +13,9 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 
 - [Automatic Image Colorization](#1-automatic-image-colorization)
 - [User Guided Image Colorization](#2-user-guided-image-colorization)
-  - [Based on color strokes](#21-based-on-color-strokes)
-  - [Based on reference color image](#22-based-on-reference-color-image)
-  - [Based on color palette](#23-based-on-color-palette)
+  - [Based on scribble](#21-based-on-scribble)
+  - [Based on reference image](#22-based-on-reference-image)
+  - [Based on palette](#23-based-on-palette)
   - [Based on language(text)](#24-based-on-language-or-text)
   - [Multi-modal (Joint inputs)](#25-multi-modal-joint-inputs)
   - [Interactive Colorization](#26-interactive-colorization)
@@ -23,6 +23,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 - [Video Colorization](#4-video-colorization)
   - [Automatically](#41-automatically)
   - [Based on reference](#42-based-on-reference)
+  - [Based on scribble](#43-based-on-scribble)
 
 
 ---
@@ -64,7 +65,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 
 ## 2. User Guided Image Colorization
 
-### 2.1 Based on color strokes
+### 2.1 Based on scribble
 
 - Software / Demo
 
@@ -90,7 +91,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Gray-Scale | [iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer](https://arxiv.org/pdf/2207.06831.pdf) | WACV 2023 | [[project]](https://pmh9960.github.io/research/iColoriT/) [[code]](https://github.com/pmh9960/iColoriT) |
 
 
-### 2.2 Based on reference color image
+### 2.2 Based on reference image
 
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
@@ -117,7 +118,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models](https://arxiv.org/abs/2303.11137) | arxiv 23.03 | [[code]](https://github.com/xq-meng/AnimeDiffusion) |
 
 
-### 2.3 Based on color palette
+### 2.3 Based on palette
 
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
@@ -185,3 +186,11 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art | [Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Line_Art_Correlation_Matching_Feature_Transfer_Network_for_Automatic_Animation_WACV_2021_paper.pdf) | WACV 2021 | |
 | Line art | [Reference-Based Deep Line Art Video Colorization](https://orca.cardiff.ac.uk/146848/1/RefLineArtVideoColorizationTVCG.pdf) | TVCG 2022 |  |
 | Natural Gray-Scale | [BiSTNet: Semantic Image Prior Guided Bidirectional Temporal Feature Fusion for Deep Exemplar-based Video Colorization](https://arxiv.org/abs/2212.02268) | arxiv 22.12 | [[code]](https://github.com/yyang181/BiSTNet) [[project]](https://yyang181.github.io/BiSTNet/) |
+
+
+### 4.3 Based on scribble
+
+| Image Type | Paper | Source | Code/Project Link  |
+| --- | --- | --- |--- |
+| Natural Gray-Scale | [SVCNet: Scribble-based Video Colorization Network with Temporal Aggregation](https://arxiv.org/abs/2303.11591) | TIP 2023 | [[code]](https://github.com/zhaoyuzhi/SVCNet) |
+
