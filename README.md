@@ -186,6 +186,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art | [Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Line_Art_Correlation_Matching_Feature_Transfer_Network_for_Automatic_Animation_WACV_2021_paper.pdf) | WACV 2021 | |
 | Line art | [Reference-Based Deep Line Art Video Colorization](https://orca.cardiff.ac.uk/146848/1/RefLineArtVideoColorizationTVCG.pdf) | TVCG 2022 |  |
 | Natural Gray-Scale | [BiSTNet: Semantic Image Prior Guided Bidirectional Temporal Feature Fusion for Deep Exemplar-based Video Colorization](https://arxiv.org/abs/2212.02268) | arxiv 22.12 | [[code]](https://github.com/yyang181/BiSTNet) [[project]](https://yyang181.github.io/BiSTNet/) |
+| Natural Gray-Scale | [Exemplar-based Video Colorization with Long-term Spatiotemporal Dependency](https://arxiv.org/abs/2303.15081) | arxiv 23.03 |  |
 
 
 ### 4.3 Based on scribble
