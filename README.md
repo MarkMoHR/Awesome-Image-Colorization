@@ -62,6 +62,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [CT2: Colorization Transformer via Color Tokens](https://ci.idm.pku.edu.cn/Weng_ECCV22b.pdf) | ECCV 2022 | [[code]](https://github.com/shuchenweng/CT2) |
 | [Disentangled Image Colorization via Global Anchors](https://menghanxia.github.io/papers/2022_disco_main.pdf) | SIGGRAPH Asia 2022 | [[code]](https://github.com/MenghanXia/DisentangledColorization) [[project]](https://menghanxia.github.io/projects/disco.html) |
 | [UniColor: A Unified Framework for Multi-Modal Colorization with Transformer](https://arxiv.org/abs/2209.11223) (also multi-modal) | SIGGRAPH Asia 2022 | [[project]](https://luckyhzt.github.io/unicolor) |
+| [Improved Diffusion-based Image Colorization via Piggybacked Models](https://arxiv.org/abs/2304.11105) | arxiv 23.04 | [[project]](https://piggyback-color.github.io/) |
 
 ## 2. User Guided Image Colorization
 
@@ -138,6 +139,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Scene Sketch | [Language-based Colorization of Scene Sketches](http://sweb.cityu.edu.hk/hongbofu/doc/language-based_sketch_colorization_SA19.pdf) | SIGGRAPH Asia 2019 | [[code]](https://github.com/SketchyScene/SketchySceneColorization) [[project]](https://sketchyscene.github.io/SketchySceneColorization/) |
 | Natural Gray-Scale | [L-CoDe: Language-based Colorization using Color-object Decoupled Conditions](https://ci.idm.pku.edu.cn/Weng_AAAI22.pdf) | AAAI 2022 | [[code]](https://github.com/changzheng123/L-CoDe) |
 | Natural Gray-Scale | [L-CoDer: Language-based Colorization with Color-object Decoupling Transformer](https://ci.idm.pku.edu.cn/Weng_ECCV22g.pdf) | ECCV 2022 | [[code]](https://github.com/changzheng123/L-CoDer) |
+| Natural Gray-Scale | [L-CoIns: Language-based Colorization with Instance Awareness](https://shuchenweng.github.io/) | CVPR 2023 |  |
 
 
 ### 2.5 Multi-modal (Joint inputs)
