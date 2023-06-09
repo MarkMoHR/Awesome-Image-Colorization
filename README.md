@@ -24,6 +24,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
   - [Automatically](#41-automatically)
   - [Based on reference](#42-based-on-reference)
   - [Based on scribble](#43-based-on-scribble)
+  - [Based on text](#44-based-on-text)
 
 
 ---
@@ -196,4 +197,11 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
 | Natural Gray-Scale | [SVCNet: Scribble-based Video Colorization Network with Temporal Aggregation](https://arxiv.org/abs/2303.11591) | TIP 2023 | [[code]](https://github.com/zhaoyuzhi/SVCNet) |
+
+
+### 4.4 Based on text
+
+| Image Type | Paper | Source | Code/Project Link  |
+| --- | --- | --- |--- |
+| Natural Gray-Scale | [Video Colorization with Pre-trained Text-to-Image Diffusion Models](https://arxiv.org/abs/2306.01732) | arxiv 23.06 | [[code]](https://github.com/ColorDiffuser/ColorDiffuser) [[project]](https://colordiffuser.github.io/) |
 
