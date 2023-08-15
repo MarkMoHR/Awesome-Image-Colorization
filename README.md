@@ -58,7 +58,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [Towards Vivid and Diverse Image Colorization with Generative Color Prior](https://arxiv.org/abs/2108.08826) | ICCV 2021 | [[code]](https://github.com/ToTheBeginning/GCP-Colorization) |
 | [SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution](https://www.aaai.org/AAAI22Papers/AAAI-528.ZhangJ.pdf) (also reference based) | AAAI 2022 | |
 | [Bridging the Domain Gap towards Generalization in Automatic Colorization](https://github.com/Lhyejin/DG-Colorization) | ECCV 2022 | [[code]](https://github.com/Lhyejin/DG-Colorization) |
-| [ColorFormer: Image Colorization via Color Memory assisted Hybrid-attention Transformer](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136760020.pdf) | ECCV 2022 |  |
+| [ColorFormer: Image Colorization via Color Memory assisted Hybrid-attention Transformer](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136760020.pdf) | ECCV 2022 | [[code]](https://github.com/jixiaozhong/ColorFormer) |
 | [BigColor: Colorization using a Generative Color Prior for Natural Images](https://kimgeonung.github.io/bigcolor/) | ECCV 2022 | [[project]](https://kimgeonung.github.io/bigcolor/) [[code]](https://github.com/KIMGEONUNG/BigColor) |
 | [CT2: Colorization Transformer via Color Tokens](https://ci.idm.pku.edu.cn/Weng_ECCV22b.pdf) | ECCV 2022 | [[code]](https://github.com/shuchenweng/CT2) |
 | [Disentangled Image Colorization via Global Anchors](https://menghanxia.github.io/papers/2022_disco_main.pdf) | SIGGRAPH Asia 2022 | [[code]](https://github.com/MenghanXia/DisentangledColorization) [[project]](https://menghanxia.github.io/projects/disco.html) |
