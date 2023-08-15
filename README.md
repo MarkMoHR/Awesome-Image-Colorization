@@ -64,6 +64,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [Disentangled Image Colorization via Global Anchors](https://menghanxia.github.io/papers/2022_disco_main.pdf) | SIGGRAPH Asia 2022 | [[code]](https://github.com/MenghanXia/DisentangledColorization) [[project]](https://menghanxia.github.io/projects/disco.html) |
 | [UniColor: A Unified Framework for Multi-Modal Colorization with Transformer](https://arxiv.org/abs/2209.11223) (also multi-modal) | SIGGRAPH Asia 2022 | [[project]](https://luckyhzt.github.io/unicolor) |
 | [Improved Diffusion-based Image Colorization via Piggybacked Models](https://arxiv.org/abs/2304.11105) | arxiv 23.04 | [[project]](https://piggyback-color.github.io/) |
+| [DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders](https://arxiv.org/abs/2212.11613) | ICCV 2023 | [[code]](https://github.com/piddnad/DDColor) [[project]](https://www.modelscope.cn/models/damo/cv_ddcolor_image-colorization/summary) |
 
 ## 2. User Guided Image Colorization
 
