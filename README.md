@@ -172,6 +172,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | --- | --- |--- |
 | [Deep Edge-Aware Interactive Colorization against Color-Bleeding Effects](https://arxiv.org/abs/2107.01619) | ICCV 2021 | [[project]](https://eungyeupkim.github.io/edge-enhancing-colorization/) [[code(metric)]](https://github.com/niceDuckgu/CDR)|
 | [Line Art Colorization Based on Explicit Region Segmentation](https://www.sysu-imsl.com/files/PG2021/line_art_colorization_pg2021_main.pdf) | Pacific Graphics 2021 | [[code]](https://github.com/Ricardo-L-C/ColorizationWithRegion) |
+| [FlatGAN: A Holistic Approach for Robust Flat-Coloring in High-Definition with Understanding Line Discontinuity](https://dl.acm.org/doi/abs/10.1145/3581783.3613788) | ACM MM 2023 | [[code]](https://github.com/hanish3464/FlatGAN) |
 
 
 ## 4. Video Colorization
