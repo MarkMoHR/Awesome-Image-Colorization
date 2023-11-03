@@ -121,6 +121,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models](https://arxiv.org/abs/2303.11137) | arxiv 23.03 | [[code]](https://github.com/xq-meng/AnimeDiffusion) |
 | Line art / Sketch | [Self-driven Dual-path Learning for Reference-based Line Art Colorization under Limited Data](https://ieeexplore.ieee.org/abstract/document/10182273) | TCSVT 2023 |  |
 | Natural Gray-Scale | [Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention](https://ieeexplore.ieee.org/abstract/document/10183846) | TIP 2023 | [[code]](https://github.com/wd1511/PDNLA-Net) |
+| Line art / Sketch | [FlexIcon: Flexible Icon Colorization via Guided Images and Palettes](https://dl.acm.org/doi/abs/10.1145/3581783.3612182) (also palette based) | ACM MM 2023 |  |
 
 
 ### 2.3 Based on palette
@@ -131,6 +132,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Gray-Scale | [Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation](https://arxiv.org/pdf/1804.04128.pdf) (also text based) | ECCV 2018 | [[code]](https://github.com/awesome-davian/Text2Colors/) |
 | Natural Gray-Scale | [Example-Based Colourization Via Dense Encoding Pyramids](http://www.shengfenghe.com/uploads/1/5/1/3/15132160/cgf_13659_rev_ev.pdf) (also reference based) | Pacific Graphics 2018 | [[code]](https://github.com/chufengxiao/Example-based-Colorization-via-Dense-Encoding-pyramids) |
 | Natural Gray-Scale | [PalGAN: Image Colorization with Palette Generative Adversarial Networks](https://github.com/shepnerd/PalGAN) | ECCV 2022 | [[code]](https://github.com/shepnerd/PalGAN) |
+| Line art / Sketch | [FlexIcon: Flexible Icon Colorization via Guided Images and Palettes](https://dl.acm.org/doi/abs/10.1145/3581783.3612182) (also reference based) | ACM MM 2023 |  |
 
 ### 2.4 Based on language or text
 
