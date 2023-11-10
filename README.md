@@ -12,6 +12,8 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 **Outline**
 
 - [Automatic Image Colorization](#1-automatic-image-colorization)
+  - [Software / Demo](#11-software--demo)
+  - [Papers](#12-papers)
 - [User Guided Image Colorization](#2-user-guided-image-colorization)
   - [Based on scribble](#21-based-on-scribble)
   - [Based on reference image](#22-based-on-reference-image)
@@ -31,14 +33,18 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 
 ## 1. Automatic Image Colorization
 
-- Software / Demo
+
+### 1.1 Software / Demo
 
 | Name | Author/Owner | Code/Project Link  |
 | --- | --- | --- |
 | DeOldify | Jason Antic | [[link]](https://github.com/jantic/DeOldify) |
 | Palette.fm | Emil Wallner | [[link]](https://palette.fm/) |
 
-- Papers
+
+### 1.2 Papers
+
+- Natural images
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
@@ -65,6 +71,14 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [UniColor: A Unified Framework for Multi-Modal Colorization with Transformer](https://arxiv.org/abs/2209.11223) (also multi-modal) | SIGGRAPH Asia 2022 | [[project]](https://luckyhzt.github.io/unicolor) |
 | [Improved Diffusion-based Image Colorization via Piggybacked Models](https://arxiv.org/abs/2304.11105) | arxiv 23.04 | [[project]](https://piggyback-color.github.io/) |
 | [DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders](https://arxiv.org/abs/2212.11613) | ICCV 2023 | [[code]](https://github.com/piddnad/DDColor) [[project]](https://www.modelscope.cn/models/damo/cv_ddcolor_image-colorization/summary) |
+
+
+- Line arts
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Region Assisted Sketch Colorization](https://ieeexplore.ieee.org/abstract/document/10303276/) | TIP 2023 |  |
+
 
 ## 2. User Guided Image Colorization
 
