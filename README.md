@@ -71,6 +71,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [UniColor: A Unified Framework for Multi-Modal Colorization with Transformer](https://arxiv.org/abs/2209.11223) (also multi-modal) | SIGGRAPH Asia 2022 | [[project]](https://luckyhzt.github.io/unicolor) |
 | [Improved Diffusion-based Image Colorization via Piggybacked Models](https://arxiv.org/abs/2304.11105) | arxiv 23.04 | [[project]](https://piggyback-color.github.io/) |
 | [DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders](https://arxiv.org/abs/2212.11613) | ICCV 2023 | [[code]](https://github.com/piddnad/DDColor) [[project]](https://www.modelscope.cn/models/damo/cv_ddcolor_image-colorization/summary) |
+| [Diffusing Colors: Image Colorization with Text Guided Diffusion](https://arxiv.org/abs/2312.04145) (also text-based) | SIGGRAPH Asia 2023 | [[project]](https://aharonazulay.github.io/project_page_colorization/) |
 
 
 - Line arts
@@ -163,6 +164,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Gray-Scale | [L-CoIns: Language-based Colorization with Instance Awareness](https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_L-CoIns_Language-Based_Colorization_With_Instance_Awareness_CVPR_2023_paper.pdf) | CVPR 2023 |  |
 | Natural Gray-Scale | [L-CAD: Language-based Colorization with Any-level Descriptions](https://arxiv.org/abs/2305.15217) | arxiv 23.05 | [[code]](https://github.com/changzheng123/L-CAD) |
 | Sketch | [Adding Conditional Control to Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf) | ICCV 2023 | [[code]](https://github.com/lllyasviel/ControlNet) |
+| Natural Gray-Scale | [Diffusing Colors: Image Colorization with Text Guided Diffusion](https://arxiv.org/abs/2312.04145) | SIGGRAPH Asia 2023 | [[project]](https://aharonazulay.github.io/project_page_colorization/) |
 
 
 ### 2.5 Multi-modal (Joint inputs)
