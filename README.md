@@ -133,10 +133,10 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Style-Structure_Disentangled_Features_and_Normalizing_Flows_for_Diverse_Icon_Colorization_CVPR_2022_paper.pdf) | CVPR 2022 |  |
 | Line art / Sketch | [Eliminating Gradient Conflict in Reference-based Line-Art Colorization](https://arxiv.org/abs/2207.06095) | ECCV 2022 | [[code]](https://github.com/kunkun0w0/SGA) |
 | Natural Gray-Scale | [Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization](https://arxiv.org/abs/2112.01335) | ECCV 2022 |  |
-| Line art / Sketch | [AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models](https://arxiv.org/abs/2303.11137) | arxiv 23.03 | [[code]](https://github.com/xq-meng/AnimeDiffusion) |
 | Line art / Sketch | [Self-driven Dual-path Learning for Reference-based Line Art Colorization under Limited Data](https://ieeexplore.ieee.org/abstract/document/10182273) | TCSVT 2023 |  |
 | Natural Gray-Scale | [Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention](https://ieeexplore.ieee.org/abstract/document/10183846) | TIP 2023 | [[code]](https://github.com/wd1511/PDNLA-Net) |
 | Line art / Sketch | [FlexIcon: Flexible Icon Colorization via Guided Images and Palettes](https://dl.acm.org/doi/abs/10.1145/3581783.3612182) (also palette based) | ACM MM 2023 |  |
+| Line art / Sketch | [AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models](https://arxiv.org/abs/2303.11137) | TVCG 2024 | [[code]](https://github.com/xq-meng/AnimeDiffusion) |
 
 
 ### 2.3 Based on palette
