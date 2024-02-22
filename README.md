@@ -72,6 +72,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [Improved Diffusion-based Image Colorization via Piggybacked Models](https://arxiv.org/abs/2304.11105) | arxiv 23.04 | [[project]](https://piggyback-color.github.io/) |
 | [DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders](https://arxiv.org/abs/2212.11613) | ICCV 2023 | [[code]](https://github.com/piddnad/DDColor) [[project]](https://www.modelscope.cn/models/damo/cv_ddcolor_image-colorization/summary) |
 | [Diffusing Colors: Image Colorization with Text Guided Diffusion](https://arxiv.org/abs/2312.04145) (also text-based) | SIGGRAPH Asia 2023 | [[project]](https://aharonazulay.github.io/project_page_colorization/) |
+| [Control Color: Multimodal Diffusion-based Interactive Image Colorization](https://arxiv.org/abs/2402.10855) | arxiv 24.02 | [[code]](https://github.com/ZhexinLiang/Control-Color) [[project]](https://zhexinliang.github.io/Control_Color/) |
 
 
 - Line arts
@@ -175,6 +176,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Gray-Scale | [Interactive Deep Colorization Using Simultaneous Global and Local Inputs](https://ieeexplore.ieee.org/abstract/document/8683686) | stroke + palette | ICASSP 2019 |  |
 | Natural Gray-Scale | [UniColor: A Unified Framework for Multi-Modal Colorization with Transformer](https://arxiv.org/abs/2209.11223) | stroke + exemplar + text | SIGGRAPH Asia 2022 | [[project]](https://luckyhzt.github.io/unicolor) |
 | Line art | [Two-Step Training: Adjustable Sketch Colourization via Reference Image and Text Tag](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14791) | exemplar + text | CGF 2023 |  |
+| Natural Gray-Scale | [Control Color: Multimodal Diffusion-based Interactive Image Colorization](https://arxiv.org/abs/2402.10855) | text, stroke, exemplar | arxiv 24.02 | [[code]](https://github.com/ZhexinLiang/Control-Color) [[project]](https://zhexinliang.github.io/Control_Color/) |
 
 
 ### 2.6 Interactive Colorization
