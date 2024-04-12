@@ -72,6 +72,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [Improved Diffusion-based Image Colorization via Piggybacked Models](https://arxiv.org/abs/2304.11105) | arxiv 23.04 | [[project]](https://piggyback-color.github.io/) |
 | [DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders](https://arxiv.org/abs/2212.11613) | ICCV 2023 | [[code]](https://github.com/piddnad/DDColor) [[project]](https://www.modelscope.cn/models/damo/cv_ddcolor_image-colorization/summary) |
 | [Diffusing Colors: Image Colorization with Text Guided Diffusion](https://arxiv.org/abs/2312.04145) (also text-based) | SIGGRAPH Asia 2023 | [[project]](https://aharonazulay.github.io/project_page_colorization/) |
+| [Automatic Controllable Colorization via Imagination](https://arxiv.org/abs/2404.05661) | CVPR 2024 | [[code]](https://github.com/xy-cong/imagine-colorization) [[project]](https://xy-cong.github.io/imagine-colorization/) |
 | [Control Color: Multimodal Diffusion-based Interactive Image Colorization](https://arxiv.org/abs/2402.10855) | arxiv 24.02 | [[code]](https://github.com/ZhexinLiang/Control-Color) [[project]](https://zhexinliang.github.io/Control_Color/) |
 
 
