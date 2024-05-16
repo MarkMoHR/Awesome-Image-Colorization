@@ -139,6 +139,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Gray-Scale | [Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention](https://ieeexplore.ieee.org/abstract/document/10183846) | TIP 2023 | [[code]](https://github.com/wd1511/PDNLA-Net) |
 | Line art / Sketch | [FlexIcon: Flexible Icon Colorization via Guided Images and Palettes](https://dl.acm.org/doi/abs/10.1145/3581783.3612182) (also palette based) | ACM MM 2023 |  |
 | Line art / Sketch | [AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models](https://arxiv.org/abs/2303.11137) | TVCG 2024 | [[code]](https://github.com/xq-meng/AnimeDiffusion) |
+| Natural Gray-Scale | [Lightweight Deep Exemplar Colorization via Semantic Attention-Guided Laplacian Pyramid](https://ieeexplore.ieee.org/abstract/document/10526459) | TVCG 2024 |  |
 
 
 ### 2.3 Based on palette
