@@ -23,6 +23,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
   - [Interactive Colorization](#26-interactive-colorization)
 - [Techniques of Improving Image Colorization](#3-techniques-of-improving-image-colorization)
 - [Video Colorization](#4-video-colorization)
+  - [Survey](#40-survey)
   - [Automatically](#41-automatically)
   - [Based on reference](#42-based-on-reference)
   - [Based on scribble](#43-based-on-scribble)
@@ -198,6 +199,12 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 
 
 ## 4. Video Colorization
+
+### 4.0 Survey
+
+| Image Type | Paper | Source | Code/Project Link  |
+| --- | --- | --- |--- |
+|  | [Video Colorization: A Survey](https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-024-4143-z) | JCST 2024 | |
 
 ### 4.1 Automatically
 
