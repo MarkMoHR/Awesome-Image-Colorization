@@ -228,7 +228,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Gray-Scale | [BiSTNet: Semantic Image Prior Guided Bidirectional Temporal Feature Fusion for Deep Exemplar-based Video Colorization](https://arxiv.org/abs/2212.02268) | TPAMI 2024 | [[code]](https://github.com/yyang181/BiSTNet) [[project]](https://yyang181.github.io/BiSTNet/) |
 | Natural Gray-Scale | [Exemplar-based Video Colorization with Long-term Spatiotemporal Dependency](https://arxiv.org/abs/2303.15081) | KBS 2024 |  |
 | Natural Gray-Scale | [ColorMNet: A Memory-based Deep Spatial-Temporal Feature Propagation Network for Video Colorization](https://arxiv.org/abs/2404.06251) | arxiv 24.04 | [[code]](https://github.com/yyang181/colormnet) [[project]](https://yyang181.github.io/colormnet/) |
-| Line art | [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter?tab=readme-ov-file#22-reference-based-sketch-colorization) | Demo | [[code]](https://github.com/ToonCrafter/ToonCrafter) |
+| Line art | [ToonCrafter: Generative Cartoon Interpolation](https://arxiv.org/abs/2405.17933) | arxiv 24.05 | [[code]](https://github.com/ToonCrafter/ToonCrafter) [[webpage]](https://doubiiu.github.io/projects/ToonCrafter/) |
 
 
 
