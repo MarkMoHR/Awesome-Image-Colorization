@@ -152,6 +152,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Gray-Scale | [Example-Based Colourization Via Dense Encoding Pyramids](http://www.shengfenghe.com/uploads/1/5/1/3/15132160/cgf_13659_rev_ev.pdf) (also reference based) | Pacific Graphics 2018 | [[code]](https://github.com/chufengxiao/Example-based-Colorization-via-Dense-Encoding-pyramids) |
 | Natural Gray-Scale | [PalGAN: Image Colorization with Palette Generative Adversarial Networks](https://github.com/shepnerd/PalGAN) | ECCV 2022 | [[code]](https://github.com/shepnerd/PalGAN) |
 | Line art / Sketch | [FlexIcon: Flexible Icon Colorization via Guided Images and Palettes](https://dl.acm.org/doi/abs/10.1145/3581783.3612182) (also reference based) | ACM MM 2023 |  |
+| Line art / Sketch | [SketchDeco: Decorating B&W Sketches with Colour](https://arxiv.org/abs/2405.18716) | arxiv 24.05 | [[code]](https://github.com/CHAITron/sketchdeco-code) [[webpage]](https://chaitron.github.io/SketchDeco/) |
 
 ### 2.4 Based on language or text
 
