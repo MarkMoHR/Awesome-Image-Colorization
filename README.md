@@ -181,7 +181,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Gray-Scale | [UniColor: A Unified Framework for Multi-Modal Colorization with Transformer](https://arxiv.org/abs/2209.11223) | stroke + exemplar + text | SIGGRAPH Asia 2022 | [[project]](https://luckyhzt.github.io/unicolor) |
 | Line art | [Two-Step Training: Adjustable Sketch Colourization via Reference Image and Text Tag](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14791) | exemplar + text | CGF 2023 | [[code]](https://github.com/tellurion-kanata/sketch_colorizer) |
 | Natural Gray-Scale | [Control Color: Multimodal Diffusion-based Interactive Image Colorization](https://arxiv.org/abs/2402.10855) | text, stroke, exemplar | arxiv 24.02 | [[code]](https://github.com/ZhexinLiang/Control-Color) [[project]](https://zhexinliang.github.io/Control_Color/) |
-| Natural Gray-Scale | [Versatile Vision Foundation Model for Image and Video Colorization]() | text, scribble, exemplar | SIGGRAPH 2024 | |
+| Natural Gray-Scale | [Versatile Vision Foundation Model for Image and Video Colorization](https://dl.acm.org/doi/abs/10.1145/3641519.3657509) | text, scribble, exemplar | SIGGRAPH 2024 | |
 
 
 ### 2.6 Interactive Colorization
