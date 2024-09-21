@@ -233,6 +233,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Gray-Scale | [Exemplar-based Video Colorization with Long-term Spatiotemporal Dependency](https://arxiv.org/abs/2303.15081) | KBS 2024 |  |
 | Natural Gray-Scale | [ColorMNet: A Memory-based Deep Spatial-Temporal Feature Propagation Network for Video Colorization](https://arxiv.org/abs/2404.06251) | arxiv 24.04 | [[code]](https://github.com/yyang181/colormnet) [[project]](https://yyang181.github.io/colormnet/) |
 | Line art | [ToonCrafter: Generative Cartoon Interpolation](https://arxiv.org/abs/2405.17933) | SIGGRAPH Asia 2024 | [[code]](https://github.com/ToonCrafter/ToonCrafter) [[webpage]](https://doubiiu.github.io/projects/ToonCrafter/) |
+| Line art | [LVCD: Reference-based Lineart Video Colorization with Diffusion Models](https://arxiv.org/abs/2409.12960) | SIGGRAPH Asia 2024 | [[webpage]](https://luckyhzt.github.io/lvcd) |
 
 
 
