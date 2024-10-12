@@ -250,4 +250,5 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | --- | --- | --- |--- |
 | Natural Gray-Scale | [Video Colorization with Pre-trained Text-to-Image Diffusion Models](https://arxiv.org/abs/2306.01732) | arxiv 23.06 | [[code]](https://github.com/ColorDiffuser/ColorDiffuser) [[project]](https://colordiffuser.github.io/) |
 | Natural Gray-Scale | [Towards Photorealistic Video Colorization via Gated Color-Guided Image Diffusion Models](https://openreview.net/forum?id=4k79es7Guv) | ACM MM 2024 |  |
+| Natural Gray-Scale | [L-C4: Language-Based Video Colorization for Creative and Consistent Color](https://arxiv.org/abs/2410.04972) | arxiv 24.10 |  |
 
