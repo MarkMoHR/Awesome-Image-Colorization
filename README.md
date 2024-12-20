@@ -142,6 +142,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [FlexIcon: Flexible Icon Colorization via Guided Images and Palettes](https://dl.acm.org/doi/abs/10.1145/3581783.3612182) (also palette based) | ACM MM 2023 |  |
 | Line art / Sketch | [AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models](https://arxiv.org/abs/2303.11137) | TVCG 2024 | [[code]](https://github.com/xq-meng/AnimeDiffusion) |
 | Natural Gray-Scale | [Lightweight Deep Exemplar Colorization via Semantic Attention-Guided Laplacian Pyramid](https://ieeexplore.ieee.org/abstract/document/10526459) | TVCG 2024 |  |
+| Manga | [ColorFlow: Retrieval-Augmented Image Sequence Colorization](https://arxiv.org/abs/2412.11815) | arxiv 24.12 | [[code]](https://github.com/TencentARC/ColorFlow) [[webpage]](https://zhuang2002.github.io/ColorFlow/) |
 
 
 ### 2.3 Based on palette
