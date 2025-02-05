@@ -28,6 +28,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
   - [Based on reference](#42-based-on-reference)
   - [Based on scribble](#43-based-on-scribble)
   - [Based on text](#44-based-on-text)
+  - [Multimodal](#45-multimodal)
 
 
 ---
@@ -143,6 +144,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models](https://arxiv.org/abs/2303.11137) | TVCG 2024 | [[code]](https://github.com/xq-meng/AnimeDiffusion) |
 | Natural Gray-Scale | [Lightweight Deep Exemplar Colorization via Semantic Attention-Guided Laplacian Pyramid](https://ieeexplore.ieee.org/abstract/document/10526459) | TVCG 2024 |  |
 | Manga | [ColorFlow: Retrieval-Augmented Image Sequence Colorization](https://arxiv.org/abs/2412.11815) | arxiv 24.12 | [[code]](https://github.com/TencentARC/ColorFlow) [[webpage]](https://zhuang2002.github.io/ColorFlow/) |
+| Line art / Sketch | [MangaNinja: Line Art Colorization with Precise Reference Following](https://arxiv.org/abs/2501.08332) | arxiv 25.01 | [[code]](https://github.com/ali-vilab/MangaNinjia) [[webpage]](https://johanan528.github.io/MangaNinjia/) |
 
 
 ### 2.3 Based on palette
@@ -255,4 +257,11 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Gray-Scale | [Video Colorization with Pre-trained Text-to-Image Diffusion Models](https://arxiv.org/abs/2306.01732) | arxiv 23.06 | [[code]](https://github.com/ColorDiffuser/ColorDiffuser) [[project]](https://colordiffuser.github.io/) |
 | Natural Gray-Scale | [Towards Photorealistic Video Colorization via Gated Color-Guided Image Diffusion Models](https://openreview.net/forum?id=4k79es7Guv) | ACM MM 2024 |  |
 | Natural Gray-Scale | [L-C4: Language-Based Video Colorization for Creative and Consistent Color](https://arxiv.org/abs/2410.04972) | arxiv 24.10 |  |
+
+
+### 4.5 Multimodal
+
+| Image Type | Paper | Source | Code/Project Link  |
+| --- | --- | --- |--- |
+| Natural Gray-Scale | [VanGogh: A Unified Multimodal Diffusion-based Framework for Video Colorization](https://arxiv.org/abs/2501.09499) | arxiv 25.01 | [[code]](https://github.com/BecauseImBatman0/VanGogh) [[webpage]](https://becauseimbatman0.github.io/VanGogh) |
 
