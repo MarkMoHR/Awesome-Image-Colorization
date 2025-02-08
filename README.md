@@ -28,7 +28,8 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
   - [Based on reference](#42-based-on-reference)
   - [Based on scribble](#43-based-on-scribble)
   - [Based on text](#44-based-on-text)
-  - [Multimodal](#45-multimodal)
+  - [Based on palette](#45-based-on-palette)
+  - [Multimodal](#46-multimodal)
 
 
 ---
@@ -218,6 +219,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
 | Natural Gray-Scale | [Fully Automatic Video Colorization with Self-Regularization and Diversity](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lei_Fully_Automatic_Video_Colorization_With_Self-Regularization_and_Diversity_CVPR_2019_paper.pdf) | CVPR 2019 | [[code]](https://github.com/ChenyangLEI/Fully-Automatic-Video-Colorization-with-Self-Regularization-and-Diversity) |
+| Natural Gray-Scale | [VCGAN: Video Colorization With Hybrid Generative Adversarial Network](https://ieeexplore.ieee.org/abstract/document/9721653) | TMM 2022 | [[code]](https://github.com/zhaoyuzhi/VCGAN) |
 
 
 ### 4.2 Based on reference
@@ -258,8 +260,13 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Gray-Scale | [Towards Photorealistic Video Colorization via Gated Color-Guided Image Diffusion Models](https://openreview.net/forum?id=4k79es7Guv) | ACM MM 2024 |  |
 | Natural Gray-Scale | [L-C4: Language-Based Video Colorization for Creative and Consistent Color](https://arxiv.org/abs/2410.04972) | arxiv 24.10 |  |
 
+### 4.5 Based on palette
 
-### 4.5 Multimodal
+| Image Type | Paper | Source | Code/Project Link  |
+| --- | --- | --- |--- |
+| Natural Gray-Scale | [Consistent Video Colorization via Palette Guidance](https://arxiv.org/abs/2501.19331) | arxiv 25.01 |  |
+
+### 4.6 Multimodal
 
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
