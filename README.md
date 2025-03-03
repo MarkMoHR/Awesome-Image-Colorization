@@ -145,7 +145,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models](https://arxiv.org/abs/2303.11137) | TVCG 2024 | [[code]](https://github.com/xq-meng/AnimeDiffusion) |
 | Natural Gray-Scale | [Lightweight Deep Exemplar Colorization via Semantic Attention-Guided Laplacian Pyramid](https://ieeexplore.ieee.org/abstract/document/10526459) | TVCG 2024 |  |
 | Manga | [ColorFlow: Retrieval-Augmented Image Sequence Colorization](https://arxiv.org/abs/2412.11815) | arxiv 24.12 | [[code]](https://github.com/TencentARC/ColorFlow) [[webpage]](https://zhuang2002.github.io/ColorFlow/) |
-| Line art / Sketch | [MangaNinja: Line Art Colorization with Precise Reference Following](https://arxiv.org/abs/2501.08332) | arxiv 25.01 | [[code]](https://github.com/ali-vilab/MangaNinjia) [[webpage]](https://johanan528.github.io/MangaNinjia/) |
+| Line art / Sketch | [MangaNinja: Line Art Colorization with Precise Reference Following](https://arxiv.org/abs/2501.08332) | CVPR 2025 | [[code]](https://github.com/ali-vilab/MangaNinjia) [[webpage]](https://johanan528.github.io/MangaNinjia/) |
 
 
 ### 2.3 Based on palette
