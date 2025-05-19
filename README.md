@@ -186,17 +186,18 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 
 - Natural images
 
-| Image Type | Paper | Source | Code/Project Link  |
-| --- | --- | --- |--- |
-| Natural Gray-Scale / Sketch | [Language-Based Image Editing with Recurrent Attentive Models](https://arxiv.org/pdf/1711.06288.pdf) | CVPR 2018 | [[code]](https://github.com/Jianbo-Lab/LBIE) |
-| Natural Gray-Scale | [Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation](https://arxiv.org/pdf/1804.04128.pdf) (also palette based) | ECCV 2018 | [[code]](https://github.com/awesome-davian/Text2Colors/) |
-| Natural Gray-Scale | [Learning to Color from Language](https://arxiv.org/pdf/1804.06026.pdf) | NAACL 2018 | [[code]](https://github.com/superhans/colorfromlanguage) |
-| Natural Gray-Scale | [L-CoDe: Language-based Colorization using Color-object Decoupled Conditions](https://ci.idm.pku.edu.cn/Weng_AAAI22.pdf) | AAAI 2022 | [[code]](https://github.com/changzheng123/L-CoDe) |
-| Natural Gray-Scale | [L-CoDer: Language-based Colorization with Color-object Decoupling Transformer](https://ci.idm.pku.edu.cn/Weng_ECCV22g.pdf) | ECCV 2022 | [[code]](https://github.com/changzheng123/L-CoDer) |
-| Natural Gray-Scale | [L-CoIns: Language-based Colorization with Instance Awareness](https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_L-CoIns_Language-Based_Colorization_With_Instance_Awareness_CVPR_2023_paper.pdf) | CVPR 2023 |  |
-| Natural Gray-Scale | [L-CAD: Language-based Colorization with Any-level Descriptions](https://arxiv.org/abs/2305.15217) | NeurIPS 2023 | [[code]](https://github.com/changzheng123/L-CAD) |
-| Natural Gray-Scale | [Diffusing Colors: Image Colorization with Text Guided Diffusion](https://arxiv.org/abs/2312.04145) | SIGGRAPH Asia 2023 | [[project]](https://aharonazulay.github.io/project_page_colorization/) |
-| Natural Gray-Scale | [COCO-LC: Colorfulness Controllable Language-based Colorization](https://dl.acm.org/doi/10.1145/3664647.3680662) | ACM MM 2024 | [[project]](https://lyf1212.github.io/COCO-LC/) [[code]](https://github.com/lyf1212/COCO-LC/) |
+| Paper | Source | Code/Project Link  |
+| --- | --- |--- |
+| [Language-Based Image Editing with Recurrent Attentive Models](https://arxiv.org/pdf/1711.06288.pdf) | CVPR 2018 | [[code]](https://github.com/Jianbo-Lab/LBIE) |
+| [Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation](https://arxiv.org/pdf/1804.04128.pdf) (also palette based) | ECCV 2018 | [[code]](https://github.com/awesome-davian/Text2Colors/) |
+| [Learning to Color from Language](https://arxiv.org/pdf/1804.06026.pdf) | NAACL 2018 | [[code]](https://github.com/superhans/colorfromlanguage) |
+| [L-CoDe: Language-based Colorization using Color-object Decoupled Conditions](https://ci.idm.pku.edu.cn/Weng_AAAI22.pdf) | AAAI 2022 | [[code]](https://github.com/changzheng123/L-CoDe) |
+| [L-CoDer: Language-based Colorization with Color-object Decoupling Transformer](https://ci.idm.pku.edu.cn/Weng_ECCV22g.pdf) | ECCV 2022 | [[code]](https://github.com/changzheng123/L-CoDer) |
+| [L-CoIns: Language-based Colorization with Instance Awareness](https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_L-CoIns_Language-Based_Colorization_With_Instance_Awareness_CVPR_2023_paper.pdf) | CVPR 2023 |  |
+| [L-CAD: Language-based Colorization with Any-level Descriptions](https://arxiv.org/abs/2305.15217) | NeurIPS 2023 | [[code]](https://github.com/changzheng123/L-CAD) |
+| [Diffusing Colors: Image Colorization with Text Guided Diffusion](https://arxiv.org/abs/2312.04145) | SIGGRAPH Asia 2023 | [[project]](https://aharonazulay.github.io/project_page_colorization/) |
+| [COCO-LC: Colorfulness Controllable Language-based Colorization](https://dl.acm.org/doi/10.1145/3664647.3680662) | ACM MM 2024 | [[project]](https://lyf1212.github.io/COCO-LC/) [[code]](https://github.com/lyf1212/COCO-LC/) |
+| [Controllable Image Colorization with Instance-aware Texts and Masks](https://arxiv.org/abs/2505.08705) (also automatic) | arxiv 25.05 |  |
 
 - Sketch / Line arts
 
