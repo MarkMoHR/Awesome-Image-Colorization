@@ -159,8 +159,11 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models](https://arxiv.org/abs/2303.11137) | TVCG 2024 | [[code]](https://github.com/xq-meng/AnimeDiffusion) |
 | Manga | [ColorFlow: Retrieval-Augmented Image Sequence Colorization](https://arxiv.org/abs/2412.11815) | arxiv 24.12 | [[code]](https://github.com/TencentARC/ColorFlow) [[webpage]](https://zhuang2002.github.io/ColorFlow/) |
 | Line art / Sketch | [MangaNinja: Line Art Colorization with Precise Reference Following](https://arxiv.org/abs/2501.08332) | CVPR 2025 | [[code]](https://github.com/ali-vilab/MangaNinjia) [[webpage]](https://johanan528.github.io/MangaNinjia/) |
+| Line art / Sketch | [Image Referenced Sketch Colorization Based on Animation Creation Workflow](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Image_Referenced_Sketch_Colorization_Based_on_Animation_Creation_Workflow_CVPR_2025_paper.pdf) | CVPR 2025 | [[code]](https://github.com/tellurion-kanata/colorizeDiffusion) |
 | Line art / Sketch | [Cobra: Efficient Line Art COlorization with BRoAder References](https://arxiv.org/abs/2504.12240) | SIGGRAPH 2025 | [[code]](https://github.com/Zhuang2002/Cobra) [[webpage]](https://zhuang2002.github.io/Cobra/) |
 | Line art / Sketch | [MagicColor: Multi-Instance Sketch Colorization](https://arxiv.org/abs/2503.16948) | arxiv 25.03 | [[code]](https://github.com/YinHan-Zhang/MagicColor) [[webpage]](https://yinhan-zhang.github.io/color/) |
+| Line art / Sketch | [ColorizeDiffusion: Improving Reference-Based Sketch Colorization with Latent Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10943696) | WACV 2025 | [[code]](https://github.com/tellurion-kanata/colorizeDiffusion) |
+| Line art / Sketch | [ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities](https://arxiv.org/abs/2504.06895) | arxiv 25.04 | [[code]](https://github.com/tellurion-kanata/colorizeDiffusion) |
 
 
 ### 2.3 Based on palette
