@@ -254,6 +254,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | --- | --- | --- |--- |
 | Natural Gray-Scale | [Fully Automatic Video Colorization with Self-Regularization and Diversity](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lei_Fully_Automatic_Video_Colorization_With_Self-Regularization_and_Diversity_CVPR_2019_paper.pdf) | CVPR 2019 | [[code]](https://github.com/ChenyangLEI/Fully-Automatic-Video-Colorization-with-Self-Regularization-and-Diversity) |
 | Natural Gray-Scale | [VCGAN: Video Colorization With Hybrid Generative Adversarial Network](https://ieeexplore.ieee.org/abstract/document/9721653) | TMM 2022 | [[code]](https://github.com/zhaoyuzhi/VCGAN) |
+| Natural Gray-Scale | [ColorSurge: Bringing Vibrancy and Efficiency to Automatic Video Colorization via Dual-Branch Fusion](https://github.com/ABTols/ColorSurge) | SIGGRAPH 2025 | [[code]](https://github.com/ABTols/ColorSurge) |
 
 
 ### 4.2 Based on reference
