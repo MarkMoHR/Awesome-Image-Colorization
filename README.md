@@ -287,6 +287,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art | [ToonCrafter: Generative Cartoon Interpolation](https://arxiv.org/abs/2405.17933) | SIGGRAPH Asia 2024 | [[code]](https://github.com/ToonCrafter/ToonCrafter) [[webpage]](https://doubiiu.github.io/projects/ToonCrafter/) |
 | Line art | [LVCD: Reference-based Lineart Video Colorization with Diffusion Models](https://arxiv.org/abs/2409.12960) | SIGGRAPH Asia 2024 | [[webpage]](https://luckyhzt.github.io/lvcd) |
 | Line art | [AniDoc: Animation Creation Made Easier](https://arxiv.org/abs/2412.14173) | CVPR 2025 | [[webpage]](https://yihao-meng.github.io/AniDoc_demo/) [[code]](https://github.com/yihao-meng/AniDoc) |
+| Line art | [SketchColour: Channel Concat Guided DiT-based Sketch-to-Colour Pipeline for 2D Animation](https://arxiv.org/abs/2507.01586) | arxiv 25.07 | [[webpage]](https://bconstantine.github.io/SketchColour/) [[code]](https://github.com/bconstantine/SketchColour) |
 
 
 
