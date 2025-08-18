@@ -164,6 +164,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [MagicColor: Multi-Instance Sketch Colorization](https://arxiv.org/abs/2503.16948) | ICCV 2025 | [[code]](https://github.com/YinHan-Zhang/MagicColor) [[webpage]](https://yinhan-zhang.github.io/color/) |
 | Line art / Sketch | [ColorizeDiffusion: Improving Reference-Based Sketch Colorization with Latent Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10943696) | WACV 2025 | [[code]](https://github.com/tellurion-kanata/colorizeDiffusion) |
 | Line art / Sketch | [ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities](https://arxiv.org/abs/2504.06895) | arxiv 25.04 | [[code]](https://github.com/tellurion-kanata/colorizeDiffusion) |
+| Line art / Sketch | [MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers](https://arxiv.org/abs/2508.09709) | arxiv 25.08 | |
 
 
 ### 2.3 Based on palette
@@ -175,7 +176,8 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Natural Image | [Palette-based Photo Recoloring](https://gfx.cs.princeton.edu/pubs/Chang_2015_PPR/chang2015-palette_small.pdf) | SIGGRAPH 2015 | [[project]](https://gfx.cs.princeton.edu/pubs/Chang_2015_PPR/index.php) |
 | Natural Gray-Scale | [Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation](https://arxiv.org/pdf/1804.04128.pdf) (also text based) | ECCV 2018 | [[code]](https://github.com/awesome-davian/Text2Colors/) |
 | Natural Gray-Scale | [Example-Based Colourization Via Dense Encoding Pyramids](http://www.shengfenghe.com/uploads/1/5/1/3/15132160/cgf_13659_rev_ev.pdf) (also reference based) | Pacific Graphics 2018 | [[code]](https://github.com/chufengxiao/Example-based-Colorization-via-Dense-Encoding-pyramids) |
-| Natural Gray-Scale | [PalGAN: Image Colorization with Palette Generative Adversarial Networks](https://github.com/shepnerd/PalGAN) | ECCV 2022 | [[code]](https://github.com/shepnerd/PalGAN) |
+| Natural Gray-Scale | [PalGAN: Image Colorization with Palette Generative Adversarial Networks](https://link.springer.com/chapter/10.1007/978-3-031-19784-0_16) | ECCV 2022 | [[code]](https://github.com/shepnerd/PalGAN) |
+| Natural Gray-Scale | [Exploring Palette based Color Guidance in Diffusion Models](https://arxiv.org/abs/2508.08754) | MM 2025 |  |
 
 
 - Sketch / Line arts
