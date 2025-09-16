@@ -104,6 +104,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | --- | --- | --- | --- |
 | Natural Gray-Scale | [Real-Time User-Guided Image Colorization with Learned Deep Priors](https://arxiv.org/abs/1705.02999) | SIGGRAPH 2017 | [[project]](https://richzhang.github.io/ideepcolor/) [[code1]](https://github.com/junyanz/interactive-deep-colorization) [[code2]](https://github.com/richzhang/colorization-pytorch) |
 | Natural Gray-Scale | [iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer](https://arxiv.org/pdf/2207.06831.pdf) | WACV 2023 | [[project]](https://pmh9960.github.io/research/iColoriT/) [[code]](https://github.com/pmh9960/iColoriT) |
+| Natural Gray-Scale | [LGA-Net: Learning Local and Global Affinities for Sparse Scribble based Image Colorization](https://orca.cardiff.ac.uk/id/eprint/180990/1/LGA-Net_ICCV2025.pdf) | ICCV 2025 | [[code]](https://github.com/HONGJINLYUCS/LGA-Net-ICCV-2025) |
 
 
 - Papers: Sketch / Line arts
