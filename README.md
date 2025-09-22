@@ -293,6 +293,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art | [SketchColour: Channel Concat Guided DiT-based Sketch-to-Colour Pipeline for 2D Animation](https://arxiv.org/abs/2507.01586) | arxiv 25.07 | [[webpage]](https://bconstantine.github.io/SketchColour/) [[code]](https://github.com/bconstantine/SketchColour) |
 | Line art | [AnimeColor: Reference-based Animation Colorization with Diffusion Transformers](https://arxiv.org/abs/2507.20158) | MM 2025 | [[code]](https://github.com/IamCreateAI/AnimeColor) |
 | Line art | [ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing](https://arxiv.org/abs/2508.10881) | arxiv 25.08 |  [[webpage]](https://lg-li.github.io/project/tooncomposer) [[code]](https://github.com/TencentARC/ToonComposer) |
+| Line art | [DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images](https://arxiv.org/abs/2509.14685) | ICCV 2025 | [[code]](https://github.com/kzmngt/DACoN) |
 
 
 
