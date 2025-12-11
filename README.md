@@ -120,6 +120,10 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art | [Two-stage Sketch Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.pdf) | SIGGRAPH Asia 2018 | [[Project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/colorize/colorize.html) |
 | Line art | [User-Guided Line Art Flat Filling with Split Filling Mechanism](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_User-Guided_Line_Art_Flat_Filling_With_Split_Filling_Mechanism_CVPR_2021_paper.pdf) | CVPR 2021 | [[Project]](https://lllyasviel.github.io/SplitFilling/) [[code]](https://github.com/lllyasviel/SplitFilling) |
 | Line art | [Dual Color Space Guided Sketch Colorization](https://ieeexplore.ieee.org/abstract/document/9515572) | TIP 2021 |  |
+| Line art | [Delaunay Painting: Perceptual Image Colouring from Raster Contours with Gaps](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14517) | CGF 2022 |  |
+| Line art | [Winding Number Features for Vector Sketch Colorization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.15141) | CGF 2024 |  |
+| Line art | [KISSColor: Kinetic and Intuitive Stroke Stretching for Vector Drawing Colorization](https://dl.acm.org/doi/abs/10.1145/3763307) | SIGGRAPH Asia 2025 |  |
+
 
 
 ### 2.2 Based on reference image
