@@ -78,6 +78,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [Automatic Controllable Colorization via Imagination](https://arxiv.org/abs/2404.05661) | CVPR 2024 | [[code]](https://github.com/xy-cong/imagine-colorization) [[project]](https://xy-cong.github.io/imagine-colorization/) |
 | [Control Color: Multimodal Diffusion-based Interactive Image Colorization](https://arxiv.org/abs/2402.10855) | arxiv 24.02 | [[code]](https://github.com/ZhexinLiang/Control-Color) [[project]](https://zhexinliang.github.io/Control_Color/) |
 | [MultiColor: Image Colorization by Learning from Multiple Color Spaces](https://openreview.net/forum?id=Zo4P2F7xLY) | ACM MM 2024 |  |
+| [Image Colorization via Efficient Diffusion Model](https://ieeexplore.ieee.org/abstract/document/11442792) | TMM 2026 |  |
 
 
 - Line arts
