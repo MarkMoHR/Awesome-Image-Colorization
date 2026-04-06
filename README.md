@@ -30,6 +30,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
   - [Based on text](#44-based-on-text)
   - [Based on palette](#45-based-on-palette)
   - [Multimodal](#46-multimodal)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for image colorization workflow orchestration, automated visual restoration management, and multi-agent coordination. MIT licensed.
 
 
 ---
