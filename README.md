@@ -21,7 +21,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
   - [Based on language(text)](#24-based-on-language-or-text)
   - [Multi-modal](#25-multi-modal)
   - [Interactive Colorization](#26-interactive-colorization)
-- [Techniques of Improving Image Colorization](#3-techniques-of-improving-image-colorization)
+- [Human-AI Collaborated Colorization System](#3-human-ai-collaborated-colorization-system)
 - [Video Colorization](#4-video-colorization)
   - [Survey](#40-survey)
   - [Automatically](#41-automatically)
@@ -123,6 +123,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art | [User-Guided Line Art Flat Filling with Split Filling Mechanism](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_User-Guided_Line_Art_Flat_Filling_With_Split_Filling_Mechanism_CVPR_2021_paper.pdf) | CVPR 2021 | [[Project]](https://lllyasviel.github.io/SplitFilling/) [[code]](https://github.com/lllyasviel/SplitFilling) |
 | Line art | [Dual Color Space Guided Sketch Colorization](https://ieeexplore.ieee.org/abstract/document/9515572) | TIP 2021 |  |
 | Line art | [Delaunay Painting: Perceptual Image Colouring from Raster Contours with Gaps](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14517) | CGF 2022 |  |
+| Line art | [FlatGAN: A Holistic Approach for Robust Flat-Coloring in High-Definition with Understanding Line Discontinuity](https://dl.acm.org/doi/abs/10.1145/3581783.3613788) | ACM MM 2023 | [[code]](https://github.com/hanish3464/FlatGAN) |
 | Line art | [Winding Number Features for Vector Sketch Colorization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.15141) | CGF 2024 |  |
 | Line art | [KISSColor: Kinetic and Intuitive Stroke Stretching for Vector Drawing Colorization](https://dl.acm.org/doi/abs/10.1145/3763307) | SIGGRAPH Asia 2025 |  |
 
@@ -239,16 +240,16 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
+| Natural Gray-Scale | [Deep Edge-Aware Interactive Colorization against Color-Bleeding Effects](https://arxiv.org/abs/2107.01619) | ICCV 2021 | [[project]](https://eungyeupkim.github.io/edge-enhancing-colorization/) [[code(metric)]](https://github.com/niceDuckgu/CDR)|
 | Line art | [Guiding Users to Where to Give Color Hints for Efficient Interactive Sketch Colorization via Unsupervised Region Prioritization](https://arxiv.org/abs/2210.14270) | WACV 2023 |  |
 
 
-## 3. Techniques of Improving Image Colorization
+## 3. Human-AI Collaborated Colorization System
 
 | Paper | Source | Code/Project Link  |
 | --- | --- |--- |
-| [Deep Edge-Aware Interactive Colorization against Color-Bleeding Effects](https://arxiv.org/abs/2107.01619) | ICCV 2021 | [[project]](https://eungyeupkim.github.io/edge-enhancing-colorization/) [[code(metric)]](https://github.com/niceDuckgu/CDR)|
-| [Line Art Colorization Based on Explicit Region Segmentation](https://www.sysu-imsl.com/files/PG2021/line_art_colorization_pg2021_main.pdf) | Pacific Graphics 2021 | [[code]](https://github.com/Ricardo-L-C/ColorizationWithRegion) |
-| [FlatGAN: A Holistic Approach for Robust Flat-Coloring in High-Definition with Understanding Line Discontinuity](https://dl.acm.org/doi/abs/10.1145/3581783.3613788) | ACM MM 2023 | [[code]](https://github.com/hanish3464/FlatGAN) |
+| [FlatMagic: Improving Flat Colorization through AI-driven Design for Digital Comic Professionals](https://dl.acm.org/doi/abs/10.1145/3491102.3502075) | CHI 2022 | [[code]](https://github.com/Nauhcnay/flat_magic_backend) |
+| [No Pixel Left Behind: Filling Gaps in Anime Colorization](https://marc2825.github.io/GapFill/assets/GapFill_CHI.pdf) | CHI 2026 | [[code]](https://github.com/marc2825/GapFill) [[webpage]](https://marc2825.github.io/GapFill/) |
 
 
 ## 4. Video Colorization
