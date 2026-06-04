@@ -80,6 +80,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [Control Color: Multimodal Diffusion-based Interactive Image Colorization](https://arxiv.org/abs/2402.10855) | arxiv 24.02 | [[code]](https://github.com/ZhexinLiang/Control-Color) [[project]](https://zhexinliang.github.io/Control_Color/) |
 | [MultiColor: Image Colorization by Learning from Multiple Color Spaces](https://openreview.net/forum?id=Zo4P2F7xLY) | ACM MM 2024 |  |
 | [Image Colorization via Efficient Diffusion Model](https://ieeexplore.ieee.org/abstract/document/11442792) | TMM 2026 |  |
+| [ColorFLUX: A Structure-Color Decoupling Framework for Old Photo Colorization](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_ColorFLUX_A_Structure-Color_Decoupling_Framework_for_Old_Photo_Colorization_CVPR_2026_paper.pdf) | CVPR 2026 |  |
 
 
 - Line arts
@@ -173,7 +174,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [ColorizeDiffusion: Improving Reference-Based Sketch Colorization with Latent Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10943696) | WACV 2025 | [[code]](https://github.com/tellurion-kanata/colorizeDiffusion) |
 | Line art / Sketch | [ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities](https://arxiv.org/abs/2504.06895) | arxiv 25.04 | [[code]](https://github.com/tellurion-kanata/colorizeDiffusion) |
 | Line art / Sketch | [MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers](https://arxiv.org/abs/2508.09709) | arxiv 25.08 | |
-| Line art / Sketch | [Towards High-resolution and Disentangled Reference-based Sketch Colorization](https://arxiv.org/abs/2603.05971) | arxiv 26.03 | [[code]](https://github.com/tellurion-kanata/ColorizeDiffusionXL) |
+| Line art / Sketch | [Towards High-resolution and Disentangled Reference-based Sketch Colorization](https://arxiv.org/abs/2603.05971) | CVPR 2026 | [[code]](https://github.com/tellurion-kanata/ColorizeDiffusionXL) |
 
 
 ### 2.3 Based on palette
@@ -194,7 +195,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
 | Line art / Sketch | [FlexIcon: Flexible Icon Colorization via Guided Images and Palettes](https://dl.acm.org/doi/abs/10.1145/3581783.3612182) (also reference based) | ACM MM 2023 |  |
-| Line art / Sketch | [SketchDeco: Decorating B&W Sketches with Colour](https://arxiv.org/abs/2405.18716) | arxiv 24.05 | [[code]](https://github.com/CHAITron/sketchdeco-code) [[webpage]](https://chaitron.github.io/SketchDeco/) |
+| Line art / Sketch | [SketchDeco: Training-Free Latent Composition for Precise Sketch Colourisation](https://openaccess.thecvf.com/content/CVPR2026/papers/Utintu_SketchDeco_Training-Free_Latent_Composition_for_Precise_Sketch_Colourisation_CVPR_2026_paper.pdf) | CVPR 2026 | [[code]](https://github.com/CHAITron/sketchdeco-code) [[webpage]](https://chaitron.github.io/SketchDeco/) |
 
 ### 2.4 Based on language or text
 
