@@ -11,6 +11,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 
 **Outline**
 
+- [Survey](#0-survey)
 - [Automatic Image Colorization](#1-automatic-image-colorization)
   - [Software / Demo](#11-software--demo)
   - [Papers](#12-papers)
@@ -33,6 +34,13 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 
 
 ---
+
+## 0. Survey
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Computer-Aided Colorization State-of-the-Science: A Survey](https://ieeexplore.ieee.org/abstract/document/10892024) | TVCG 2025 | [[webpage]](https://github.com/DanielCho-HK/Colorization)  |
+
 
 ## 1. Automatic Image Colorization
 
