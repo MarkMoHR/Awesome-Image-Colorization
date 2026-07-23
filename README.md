@@ -40,6 +40,8 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Computer-Aided Colorization State-of-the-Science: A Survey](https://ieeexplore.ieee.org/abstract/document/10892024) | TVCG 2025 | [[webpage]](https://github.com/DanielCho-HK/Colorization)  |
+| [Cartoon Image Processing: A Survey](https://link.springer.com/article/10.1007/s11263-022-01645-1) | IJCV 2022 | [[webpage]](https://github.com/Diya-R/CIP)  |
+| [Deep learning for image colorization: Current and future prospects](https://www.sciencedirect.com/science/article/pii/S0952197622001920) | EAAI 2022 |  |
 
 
 ## 1. Automatic Image Colorization
