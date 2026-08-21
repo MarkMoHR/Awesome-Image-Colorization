@@ -185,6 +185,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities](https://arxiv.org/abs/2504.06895) | arxiv 25.04 | [[code]](https://github.com/tellurion-kanata/colorizeDiffusion) |
 | Line art / Sketch | [MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers](https://arxiv.org/abs/2508.09709) | arxiv 25.08 | |
 | Line art / Sketch | [Towards High-resolution and Disentangled Reference-based Sketch Colorization](https://arxiv.org/abs/2603.05971) | CVPR 2026 | [[code]](https://github.com/tellurion-kanata/ColorizeDiffusionXL) |
+| Line art / Sketch | [TopoColor: Topology-Aware Region Correspondence for Line Art Colorization](https://ieeexplore.ieee.org/document/11659100) | TVCG 2026 |  | 
 
 
 ### 2.3 Based on palette
