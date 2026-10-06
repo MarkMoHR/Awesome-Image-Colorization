@@ -137,6 +137,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art | [FlatGAN: A Holistic Approach for Robust Flat-Coloring in High-Definition with Understanding Line Discontinuity](https://dl.acm.org/doi/abs/10.1145/3581783.3613788) | ACM MM 2023 | [[code]](https://github.com/hanish3464/FlatGAN) |
 | Line art | [Winding Number Features for Vector Sketch Colorization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.15141) | CGF 2024 |  |
 | Line art | [KISSColor: Kinetic and Intuitive Stroke Stretching for Vector Drawing Colorization](https://dl.acm.org/doi/abs/10.1145/3763307) | SIGGRAPH Asia 2025 |  |
+| Line art | [Hint-AUC: Deterministic Region-based Hint Generation for Line Art Colorization Evaluation](https://ieeexplore.ieee.org/document/11714481) | TVCG 2026 |  |
 
 
 
@@ -347,4 +348,5 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Image Type | Paper | Source | Code/Project Link  |
 | --- | --- | --- |--- |
 | Natural Gray-Scale | [VanGogh: A Unified Multimodal Diffusion-based Framework for Video Colorization](https://arxiv.org/abs/2501.09499) | arxiv 25.01 | [[code]](https://github.com/BecauseImBatman0/VanGogh) [[webpage]](https://becauseimbatman0.github.io/VanGogh) |
+| Natural Gray-Scale | [UniColorFlow: A Unified Framework for Multimodal-Guided Video Colorization with Consistency Flow](https://link.springer.com/article/10.1007/s11263-026-03058-w) | IJCV 2026 |  |
 
