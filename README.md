@@ -188,6 +188,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers](https://arxiv.org/abs/2508.09709) | arxiv 25.08 | |
 | Line art / Sketch | [Towards High-resolution and Disentangled Reference-based Sketch Colorization](https://arxiv.org/abs/2603.05971) | CVPR 2026 | [[code]](https://github.com/tellurion-kanata/ColorizeDiffusionXL) |
 | Line art / Sketch | [TopoColor: Topology-Aware Region Correspondence for Line Art Colorization](https://ieeexplore.ieee.org/document/11659100) | TVCG 2026 |  | 
+| Line art | [PaletteAgent: Self-Evolving Correction for Line-Art Colorization](https://aclanthology.org/2026.findings-emnlp.289/) (also text-based) | EMNLP 2026 |  |
 
 
 ### 2.3 Based on palette
@@ -235,6 +236,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Scene Sketch | [Language-based Colorization of Scene Sketches](http://sweb.cityu.edu.hk/hongbofu/doc/language-based_sketch_colorization_SA19.pdf) | SIGGRAPH Asia 2019 | [[code]](https://github.com/SketchyScene/SketchySceneColorization) [[project]](https://sketchyscene.github.io/SketchySceneColorization/) |
 | Line art | [Line Art Colorization Based on Explicit Region Segmentation](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14396) | Pacific Graphics 2021 | [[code]](https://github.com/Ricardo-L-C/ColorizationWithRegion) |
 | Sketch | [Adding Conditional Control to Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf) | ICCV 2023 | [[code]](https://github.com/lllyasviel/ControlNet) |
+| Line art | [PaletteAgent: Self-Evolving Correction for Line-Art Colorization](https://aclanthology.org/2026.findings-emnlp.289/) (also reference-based) | EMNLP 2026 |  |
 
 
 ### 2.5 Multi-modal
