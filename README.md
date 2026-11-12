@@ -92,6 +92,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | [MultiColor: Image Colorization by Learning from Multiple Color Spaces](https://openreview.net/forum?id=Zo4P2F7xLY) | ACM MM 2024 |  |
 | [Image Colorization via Efficient Diffusion Model](https://ieeexplore.ieee.org/abstract/document/11442792) | TMM 2026 |  |
 | [ColorFLUX: A Structure-Color Decoupling Framework for Old Photo Colorization](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_ColorFLUX_A_Structure-Color_Decoupling_Framework_for_Old_Photo_Colorization_CVPR_2026_paper.pdf) | CVPR 2026 |  |
+| [ColorFlow: Robust Image Colorization with Pixel Flow Matching](https://dl.acm.org/doi/abs/10.1145/3767308.3835845) | MM 2026 |  |
 
 
 - Line arts
