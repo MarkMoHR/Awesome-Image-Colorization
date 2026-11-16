@@ -190,6 +190,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art / Sketch | [Towards High-resolution and Disentangled Reference-based Sketch Colorization](https://arxiv.org/abs/2603.05971) | CVPR 2026 | [[code]](https://github.com/tellurion-kanata/ColorizeDiffusionXL) |
 | Line art / Sketch | [TopoColor: Topology-Aware Region Correspondence for Line Art Colorization](https://ieeexplore.ieee.org/document/11659100) | TVCG 2026 |  | 
 | Line art | [PaletteAgent: Self-Evolving Correction for Line-Art Colorization](https://aclanthology.org/2026.findings-emnlp.289/) (also text-based) | EMNLP 2026 |  |
+| Line art / Sketch | [Progressive Style Transfer for Exemplar-based Open-world Sketch Colorization](https://ieeexplore.ieee.org/abstract/document/11793402) | TIP 2026 | [[code]](https://github.com/Vincotto/ProST) | 
 
 
 ### 2.3 Based on palette
