@@ -139,7 +139,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art | [FlatGAN: A Holistic Approach for Robust Flat-Coloring in High-Definition with Understanding Line Discontinuity](https://dl.acm.org/doi/abs/10.1145/3581783.3613788) | ACM MM 2023 | [[code]](https://github.com/hanish3464/FlatGAN) |
 | Line art | [Winding Number Features for Vector Sketch Colorization](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.15141) | CGF 2024 |  |
 | Line art | [KISSColor: Kinetic and Intuitive Stroke Stretching for Vector Drawing Colorization](https://dl.acm.org/doi/abs/10.1145/3763307) | SIGGRAPH Asia 2025 |  |
-| Line art | [Hint-AUC: Deterministic Region-based Hint Generation for Line Art Colorization Evaluation](https://ieeexplore.ieee.org/document/11714481) | TVCG 2026 |  |
+| Line art | [Hint-AUC: Deterministic Region-based Hint Generation for Line Art Colorization Evaluation](https://ieeexplore.ieee.org/document/11714481) | TVCG 2026 | [[Project]](https://madonokouki.github.io/projects/hintauc/) [[code]](https://github.com/MADONOKOUKI/DetFill-with-DHT) |
 
 
 
